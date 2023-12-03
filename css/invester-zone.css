@@ -1,0 +1,71 @@
+.lists-group{
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+    border-radius: 18px;
+    background: #FFFEFE;
+}
+
+.lists-group .list-item{
+    padding: 1.5rem;
+    border-radius: 18px;
+    border: 2px solid rgba(41, 87, 164, 0.10);
+    background: #FFFEFE;
+}
+
+.lists-group .list-item .icon-title{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.lists-group h5{
+    color: #2957A4;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.list-item .year-and-date{
+   color: #2957A4;
+   font-size: 14px;
+   display: flex;
+   align-items: center;
+   margin-top: 1rem;
+   margin-bottom: 2rem;
+}
+
+.list-item .year-and-date span{
+    background: #2957A4;
+    width: 6px;
+    height: 6px;
+    margin-inline: 6px;
+    display: block;
+    border-radius: 50%;
+ }
+
+.list-item button{
+    background: #94AAD1;
+    border: none;
+    border-radius: 12px;
+    height: 40px;
+    font-size: 14px;
+    color: #2957A4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-width: 160px;
+    width: 100%;
+    font-weight: 700;
+    transition: all 0.4s ease;
+}
+
+.list-item button:hover{
+    background:#2957A4;
+    color: white;
+}
+
+.list-item button:hover path{
+    stroke: #c2ccea
+}

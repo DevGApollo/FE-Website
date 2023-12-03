@@ -32,6 +32,7 @@
     <link rel="stylesheet prefetch" type="text/css" href="http://apollo.co.in/css/tabstyles.css" />
     <link rel="stylesheet prefetch" type="text/css" href="css/sidebar-btn.css?ver=1.2" />
     <link rel="stylesheet prefetch" type="text/css" href="css/model-custom.css?ver=1.2" />
+    <link rel="stylesheet prefetch" type="text/css" href="css/invester-zone.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
