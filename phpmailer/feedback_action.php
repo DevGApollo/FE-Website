@@ -2,45 +2,45 @@
 session_start();
 
 $fname = $_POST['name'];
-$email=$_POST['email'];
-  $phone=$_POST['phone'];
-	$comment = $_POST['message'];
-  $cname=$_POST['cname'];
-  $city=$_POST['city'];
+$email = $_POST['email'];
+$phone = $_POST['phone'];
+$comment = $_POST['message'];
+$cname = $_POST['cname'];
+$city = $_POST['city'];
 
-if($name!="" || $email!="" || $phone!="")
-{ 
-require_once('phpmailer/class.phpmailer.php');
-	define('GUSER', 'dcbrainsinquiry@gmail.com');	 
-	define('GPWD', 'dcbrainsinquiry!@#');
-function smtpmailer($to, $from, $from_name, $subject, $body) { 
-	global $error;
-	$mail = new PHPMailer();  // create a new object
-	$mail->IsSMTP(); // enable SMTP
-	$mail->SMTPDebug = 1;  // debugging: 1 = errors and messages, 2 = messages only
-	$mail->SMTPAuth = true;  // authentication enabled
-	$mail->SMTPSecure = 'ssl'; // secure transfer enabled REQUIRED for GMail
-	$mail->Host = 'smtp.gmail.com';
-	$mail->Port = 465; 
-	$mail->Username = GUSER;  
-	$mail->Password = GPWD;           
-	$mail->SetFrom($from, $from_name);
-	$mail->Subject = $subject;
-	$mail->Body = $body;
-	$mail->AddAddress($to);
-  $mail->IsHTML(true); 
- 
- 
-  
-	if(!$mail->Send()) {
-		$error = 'Mail error: '.$mail->ErrorInfo; 
-		return false;
-	} else {
-		$error = 'Message sent!';
-		return true;
-	}			
-	} 
-		$message_body = '
+if ($name != "" || $email != "" || $phone != "") {
+    require_once('phpmailer/class.phpmailer.php');
+    define('GUSER', 'dcbrainsinquiry@gmail.com');
+    define('GPWD', 'dcbrainsinquiry!@#');
+    function smtpmailer($to, $from, $from_name, $subject, $body)
+    {
+        global $error;
+        $mail = new PHPMailer();  // create a new object
+        $mail->IsSMTP(); // enable SMTP
+        $mail->SMTPDebug = 1;  // debugging: 1 = errors and messages, 2 = messages only
+        $mail->SMTPAuth = true;  // authentication enabled
+        $mail->SMTPSecure = 'ssl'; // secure transfer enabled REQUIRED for GMail
+        $mail->Host = 'smtp.gmail.com';
+        $mail->Port = 465;
+        $mail->Username = GUSER;
+        $mail->Password = GPWD;
+        $mail->SetFrom($from, $from_name);
+        $mail->Subject = $subject;
+        $mail->Body = $body;
+        $mail->AddAddress($to);
+        $mail->IsHTML(true);
+
+
+        if (!$mail->Send()) {
+            $error = 'Mail error: ' . $mail->ErrorInfo;
+            return false;
+        } else {
+            $error = 'Message sent!';
+            return true;
+        }
+    }
+
+    $message_body = '
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -170,7 +170,7 @@ table[class="footer-column"] { width: 100% !important; text-align: center !impor
 
 																	<!-- content -->
 																	<tr>
-																		<td height="15" align="left" valign="top" style="font-family: arial, sans-serif, \'Century Gothic\'; font-size:12px; line-height:6px; color:#676767;font-weight:bold;">'.$fname.'</td>
+																		<td height="15" align="left" valign="top" style="font-family: arial, sans-serif, \'Century Gothic\'; font-size:12px; line-height:6px; color:#676767;font-weight:bold;">' . $fname . '</td>
 																	</tr>
 																	<!-- end content -->
 																	<tr>
@@ -191,7 +191,7 @@ table[class="footer-column"] { width: 100% !important; text-align: center !impor
 
 																	<!-- content -->
 																	<tr>
-																		<td height="15" align="left" valign="top" style="font-family: arial, sans-serif, \'Century Gothic\'; font-size:12px; line-height:6px; color:#676767;font-weight:bold;">'.$cname.'</td>
+																		<td height="15" align="left" valign="top" style="font-family: arial, sans-serif, \'Century Gothic\'; font-size:12px; line-height:6px; color:#676767;font-weight:bold;">' . $cname . '</td>
 																	</tr>
 																	<!-- end content -->
 																	<tr>
@@ -210,7 +210,7 @@ table[class="footer-column"] { width: 100% !important; text-align: center !impor
 
 																	<!-- content -->
 																	<tr>
-																		<td height="15" align="left" valign="top" style="font-family: arial, sans-serif, \'Century Gothic\'; font-size:12px; line-height:6px; color:#676767;font-weight:bold;">'.$phone.'</td>
+																		<td height="15" align="left" valign="top" style="font-family: arial, sans-serif, \'Century Gothic\'; font-size:12px; line-height:6px; color:#676767;font-weight:bold;">' . $phone . '</td>
 																	</tr>
 																	<!-- end content -->
 																	<tr>
@@ -232,7 +232,7 @@ table[class="footer-column"] { width: 100% !important; text-align: center !impor
 
 																	<!-- content -->
 																	<tr>
-																		<td height="15" align="left" valign="top" style="font-family: arial, sans-serif, \'Century Gothic\'; font-size:12px; line-height:6px; color:#676767;font-weight:bold;">'.$email.'</td>
+																		<td height="15" align="left" valign="top" style="font-family: arial, sans-serif, \'Century Gothic\'; font-size:12px; line-height:6px; color:#676767;font-weight:bold;">' . $email . '</td>
 																	</tr>
 																	<!-- end content -->
 																	<tr>
@@ -297,7 +297,7 @@ table[class="footer-column"] { width: 100% !important; text-align: center !impor
 
 																	<!-- content -->
 																	<tr>
-																		<td height="15" align="left" valign="top" style="font-family: arial, sans-serif, \'Century Gothic\'; font-size:12px; line-height:24px; color:#676767;text-align:justify;">'.$comment.'</td>
+																		<td height="15" align="left" valign="top" style="font-family: arial, sans-serif, \'Century Gothic\'; font-size:12px; line-height:24px; color:#676767;text-align:justify;">' . $comment . '</td>
 																	</tr>
 																	<!-- end content -->
                                   
@@ -313,7 +313,7 @@ table[class="footer-column"] { width: 100% !important; text-align: center !impor
 
 																	<!-- content -->
 																	<tr>
-																		<td height="15" align="left" valign="top" style="font-family: arial, sans-serif, \'Century Gothic\'; font-size:12px; line-height:24px; color:#676767;text-align:justify;">'.$city.'</td>
+																		<td height="15" align="left" valign="top" style="font-family: arial, sans-serif, \'Century Gothic\'; font-size:12px; line-height:24px; color:#676767;text-align:justify;">' . $city . '</td>
 																	</tr>
 																	<!-- end content -->
 
@@ -382,35 +382,26 @@ table[class="footer-column"] { width: 100% !important; text-align: center !impor
 	</table>
 </body>
 </html>';
-	
-	//$regg="Name:".$name." \n \n phone:".$phone. "\n \n Address:".$address."\n \n Comment: ".$comment."\n \n Email: ".$email."";
-	
-		if(smtpmailer('a11034211040@gmail.com',$email , 'Contact For Dintech', 'New Inquiry For Dintech', $message_body))
-		{	
-	   
-	header('location:thankyou.php');	
-		}
-		else
-		{
-    	header('location:contact.php');
-		}
- 
-	//	header('location:contact.html');
 
-}
-else
-{ ?>
-               <script>if(confirm("Please Enter All Details Correct..")) {
-    window.location.href = "#";
-           }
-           else
-           {
-           window.location.href = "#";
-           }
-           </script>
+    //$regg="Name:".$name." \n \n phone:".$phone. "\n \n Address:".$address."\n \n Comment: ".$comment."\n \n Email: ".$email."";
 
-   <?php
+    if (smtpmailer('a11034211040@gmail.com', $email, 'Contact For Dintech', 'New Inquiry For Dintech', $message_body)) {
+
+        header('location:thankyou.php');
+    } else {
+        header('location:contact.php');
+    }
+
+    //	header('location:contact.html');
+
+} else { ?>
+    <script>if (confirm("Please Enter All Details Correct..")) {
+        window.location.href = "#";
+      } else {
+        window.location.href = "#";
+      }
+    </script>
+
+    <?php
 }
 ?>
-
-	

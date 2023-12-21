@@ -1,13 +1,13 @@
-<?php include("header.php");?>
+<?php include("header.php"); ?>
 
 <section class="contact-section">
 
 
     <!-- Event snippet for thankyou page conversion page -->
     <script>
-    gtag('event', 'conversion', {
+      gtag('event', 'conversion', {
         'send_to': 'AW-840463581/JotMCIzfoHsQ3enhkAM'
-    });
+      });
     </script>
 
 
@@ -15,9 +15,6 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="col-md-4 col-xs-12">
-
-
-
 
 
                     <div class="contact-address1">
@@ -34,7 +31,8 @@
                                         <a href="javascript:;" class=" dwnld-pdf click1 btn-cstm  text-center">&nbsp;
                                             Investor Relations
                                         </a>
-                                        <a href="javascript:;" class=" btn-cstm text-center click1" >&nbsp; Sales Inquiry </a>
+                                        <a href="javascript:;" class=" btn-cstm text-center click1">&nbsp; Sales
+                                            Inquiry </a>
                                         <a href="javascript:;" class=" dwnld-pdf click1 btn-cstm  text-center">&nbsp;
                                             Service & Spares
                                             Management </a>
@@ -44,11 +42,6 @@
 
 
                                     </div>
-
-
-
-
-
 
 
                                 </div>
@@ -65,8 +58,8 @@
 
 
                                 <h2 style="text-align: center;">Thankyou Catalogue Download</h2>
-                                <a id="lnnk" href='PDF/<?php echo  $_REQUEST['varname']; ?>'
-                                    style="display:block; color: #0081b8;" target="_blank" download>
+                                <a id="lnnk" href='PDF/<?php echo $_REQUEST['varname']; ?>'
+                                   style="display:block; color: #0081b8;" target="_blank" download>
                                     <!-- <div class="message" style="display:block;margin:100px 0 13px;text-align:center"><img src="images/download_gif.gif"  class="center-block" style="width: auto;">Click Here For Your  Requested Catalogue Download</div> -->
                                 </a>
 
@@ -78,28 +71,26 @@
         </div>
 
 
-
-
     </div>
 </section>
 
 <div class="clearfix"></div>
 
 
-<?php include("footer.php");?>
+<?php include("footer.php"); ?>
 <script>
-// var hreff = $("#lnnk").attr('href'); 
-// setTimeout(
-//   function() {
-// window.location = hreff;
-//   }, 5000);
-jQuery(document).ready(function($) {
+  // var hreff = $("#lnnk").attr('href');
+  // setTimeout(
+  //   function() {
+  // window.location = hreff;
+  //   }, 5000);
+  jQuery(document).ready(function ($) {
 
-    $('#lnnk').each(function() {
-        var pdf = $(this);
-        setTimeout(function() {
-            window.location = pdf.attr('href');
-        }, 2000);
+    $('#lnnk').each(function () {
+      var pdf = $(this);
+      setTimeout(function () {
+        window.location = pdf.attr('href');
+      }, 2000);
     });
-});
+  });
 </script>

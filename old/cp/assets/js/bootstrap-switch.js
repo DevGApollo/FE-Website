@@ -126,7 +126,7 @@
                 if ($element.data('animated') !== false)
                   $element.addClass("switch-animate");
 
-                $element.parent().trigger('switch-change', {'el': $this, 'value': thisState})
+                $element.parent().trigger('switch-change', { 'el': $this, 'value': thisState })
               }
             });
 

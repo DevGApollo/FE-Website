@@ -7,7 +7,8 @@ Some inspiration for tab styles and effects.
 
 [Demo](http://tympanus.net/Development/TabStylesInspiration/)
 
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
+Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "
+as-is".
 
 Read more here: [License](http://tympanus.net/codrops/licensing/)
 
