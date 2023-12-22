@@ -1,13 +1,11 @@
 .lists-group {
-    display: flex;
     gap: 1.5rem;
-    align-items: center;
     border-radius: 18px;
     background: #FFFEFE;
 }
 
 .lists-group .list-item {
-    padding: 1.5rem;
+    padding: 10px;
     border-radius: 18px;
     border: 2px solid rgba(41, 87, 164, 0.10);
     background: #FFFEFE;
@@ -50,7 +48,7 @@
     border-radius: 12px;
     height: 40px;
     font-size: 14px;
-    color: #2957A4;
+    color: #000000;
     display: flex;
     align-items: center;
     justify-content: center;
