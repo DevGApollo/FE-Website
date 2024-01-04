@@ -10,7 +10,7 @@
                         <a class=" fancybox" rel="ligthbox" href="http://placehold.it/300x320.png">
 
                             <!-- <h3 class="text-center" >KODY CORPORATE</h3> -->
-                            <img class="img-responsive" alt="" src="http://placehold.it/320x320"/>
+                            <img loading="lazy" class="img-responsive" alt="" src="http://placehold.it/320x320"/>
                             <a href="pdf/Kody-Corporate-Brochure-2018.pdf" class="click2">
                                 <button type="button" class="btn btn-primary center-block buttonwidth">Download</button>
                             </a>
@@ -19,7 +19,7 @@
                     <div class='col-sm-4 col-xs-6 col-md-4 col-lg-4'>
                         <a class=" fancybox" rel="ligthbox" href="http://placehold.it/300x320.png">
                             <!-- <h3 class="text-center" >KODY CORPORATE</h3> -->
-                            <img class="img-responsive" alt="" src="http://placehold.it/320x320"/>
+                            <img loading="lazy" class="img-responsive" alt="" src="http://placehold.it/320x320"/>
                             <a href="pdf/Kody-Corporate-Brochure-2018.pdf" class="click2">
                                 <button type="button" class="btn btn-primary center-block buttonwidth">Download</button>
                             </a>
@@ -28,7 +28,7 @@
                     <div class='col-sm-4 col-xs-6 col-md-4 col-lg-4'>
                         <a class=" fancybox" rel="ligthbox" href="http://placehold.it/300x320.png">
                             <!-- <h3 class="text-center" >KODY CORPORATE</h3> -->
-                            <img class="img-responsive" alt="" src="http://placehold.it/320x320"/>
+                            <img loading="lazy" class="img-responsive" alt="" src="http://placehold.it/320x320"/>
                             <a href="pdf/Kody-Corporate-Brochure-2018.pdf" class="click2">
                                 <button type="button" class="btn btn-primary center-block buttonwidth">Download</button>
                             </a>
@@ -43,7 +43,7 @@
                     <div class='col-sm-4 col-xs-6 col-md-4 col-lg-4'>
                         <a class=" fancybox" rel="ligthbox" href="http://placehold.it/300x320.png">
                             <!-- <h3 class="text-center" >KODY CORPORATE</h3> -->
-                            <img class="img-responsive" alt="" src="http://placehold.it/320x320"/>
+                            <img loading="lazy" class="img-responsive" alt="" src="http://placehold.it/320x320"/>
                             <a href="pdf/Kody-Corporate-Brochure-2018.pdf" class="click2">
                                 <button type="button" class="btn btn-primary center-block buttonwidth">Download</button>
                             </a>
@@ -52,7 +52,7 @@
                     <div class='col-sm-4 col-xs-6 col-md-4 col-lg-4'>
                         <a class=" fancybox" rel="ligthbox" href="http://placehold.it/300x320.png">
                             <!-- <h3 class="text-center" >KODY CORPORATE</h3> -->
-                            <img class="img-responsive" alt="" src="http://placehold.it/320x320"/>
+                            <img loading="lazy" class="img-responsive" alt="" src="http://placehold.it/320x320"/>
                             <a href="pdf/Kody-Corporate-Brochure-2018.pdf" class="click2">
                                 <button type="button" class="btn btn-primary center-block buttonwidth">Download</button>
                             </a>
@@ -61,7 +61,7 @@
                     <div class='col-sm-4 col-xs-6 col-md-4 col-lg-4'>
                         <a class=" fancybox" rel="ligthbox" href="http://placehold.it/300x320.png">
                             <!-- <h3 class="text-center" >KODY CORPORATE</h3> -->
-                            <img class="img-responsive" alt="" src="http://placehold.it/320x320"/>
+                            <img loading="lazy" class="img-responsive" alt="" src="http://placehold.it/320x320"/>
                             <a href="pdf/Kody-Corporate-Brochure-2018.pdf" class="click2">
                                 <button type="button" class="btn btn-primary center-block buttonwidth">Download</button>
                             </a>

@@ -271,7 +271,7 @@
 
                                                 </div>
                                                 <div class="col-md-4 col">
-                                                    <img src="captcha.php" class="capside">
+                                                    <img loading="lazy" src="captcha.php" class="capside">
                                                 </div>
                                             </div>
                                         </div>

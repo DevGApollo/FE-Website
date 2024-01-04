@@ -10,7 +10,7 @@
                                 <div class='carousel-inner'>
                                     <div class='item active' id="my">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/jaw-crusher/B-900-big.png" /
                                                 alt="apollo | jaw-crusher | B-900" title="apollo | jaw-crusher | B-900">
                                             </div>
@@ -72,7 +72,7 @@
                                     </div>
                                     <div class='item' id="my1">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/jaw-crusher/B-1050-big.png"
                                                 / alt="" title="">
                                             </div>
@@ -134,7 +134,7 @@
                                     </div>
                                     <div class='item' id="my2">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/jaw-crusher/B-1250-big.png"
                                                 / alt="" title="">
                                             </div>
@@ -208,19 +208,19 @@
                             <!-- thumb -->
                             <ol class='carousel-indicators cstm-full-width-one  meartlab'>
                                 <li data-target='#carousel-custom' data-slide-to='0' class='active'>
-                                    <img src='images/products/jaw-crusher/B-900-big.png' alt=''/>
+                                    <img loading="lazy" src='images/products/jaw-crusher/B-900-big.png' alt=''/>
                                     <small>
                                         <h4 class="text-center-small-cstm-1">B 900</h4>
                                     </small>
                                 </li>
                                 <li data-target='#carousel-custom' data-slide-to='1'>
-                                    <img src='images/products/jaw-crusher/B-1050-big.png' alt=''/>
+                                    <img loading="lazy" src='images/products/jaw-crusher/B-1050-big.png' alt=''/>
                                     <small>
                                         <h4 class="text-center-small-cstm-1">B 1050</h4>
                                     </small>
                                 </li>
                                 <li data-target='#carousel-custom' data-slide-to='2'>
-                                    <img src='images/products/jaw-crusher/B-1250-big.png' alt=''/>
+                                    <img loading="lazy" src='images/products/jaw-crusher/B-1250-big.png' alt=''/>
                                     <small>
                                         <h4 class="text-center-small-cstm-1">B 1250</h4>
                                     </small>

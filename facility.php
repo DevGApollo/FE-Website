@@ -15,7 +15,7 @@
 
                 <div class="col-md-6 col-xs-12 servicebanner-1">
                     <a href="#">
-                        <img src="images/facility/Facility.jpg" class="sr-holder img-responsive" alt=""
+                        <img loading="lazy" src="images/facility/Facility.jpg" class="sr-holder img-responsive" alt=""
                              style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></a>
                 </div>
                 <div class="col-md-6 col-xs-12">
@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-md-6 col-xs-12 servicebanner-1">
                     <a href="#">
-                        <img src="images/facility/Facility1.jpg" class="sr-holder img-responsive" alt=""
+                        <img loading="lazy" src="images/facility/Facility1.jpg" class="sr-holder img-responsive" alt=""
                              style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></a>
                 </div>
 
@@ -64,7 +64,7 @@
 
                 <div class="col-md-6 col-xs-12 servicebanner-1">
                     <a href="#">
-                        <img src="images/facility/Facility1.jpg" class="sr-holder img-responsive" alt=""
+                        <img loading="lazy" src="images/facility/Facility1.jpg" class="sr-holder img-responsive" alt=""
                              style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></a>
                 </div>
                 <div class="col-md-6 col-xs-12">
@@ -93,15 +93,15 @@
 
               <div class="carousel-inner">
                 <div class="item active">
-                  <img src="images/facility/facility/Facility_01.JPG" alt="">
+                  <img loading="lazy" src="images/facility/facility/Facility_01.JPG" alt="">
 
                 </div>
                 <div class="item">
-                  <img src="images/facility/facility/Facility_02.JPG" alt="">
+                  <img loading="lazy" src="images/facility/facility/Facility_02.JPG" alt="">
 
                 </div>
                 <div class="item">
-                  <img src="images/facility/facility/Facility_03.JPG" alt="">
+                  <img loading="lazy" src="images/facility/facility/Facility_03.JPG" alt="">
 
                 </div>
               </div>
@@ -166,7 +166,7 @@
                     </ul>
                     <div id="testim-content" class="cont">
                         <div class="active">
-                            <div class="img"><img src="https://image.ibb.co/hgy1M7/5a6f718346a28820008b4611_750_562.jpg"
+                            <div class="img"><img loading="lazy" src="https://image.ibb.co/hgy1M7/5a6f718346a28820008b4611_750_562.jpg"
                                                   alt=""></div>
                             <div class="h4">Kellie</div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -175,7 +175,7 @@
                         </div>
 
                         <div>
-                            <div class="img"><img src="https://image.ibb.co/cNP817/pexels_photo_220453.jpg" alt="">
+                            <div class="img"><img loading="lazy" src="https://image.ibb.co/cNP817/pexels_photo_220453.jpg" alt="">
                             </div>
                             <div class="h4">Jessica</div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -184,7 +184,7 @@
                         </div>
 
                         <div>
-                            <div class="img"><img src="https://image.ibb.co/iN3qES/pexels_photo_324658.jpg" alt="">
+                            <div class="img"><img loading="lazy" src="https://image.ibb.co/iN3qES/pexels_photo_324658.jpg" alt="">
                             </div>
                             <div class="h4">Kellie</div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -193,7 +193,7 @@
                         </div>
 
                         <div>
-                            <div class="img"><img src="https://image.ibb.co/kL6AES/Top_SA_Nicky_Oppenheimer.jpg" alt="">
+                            <div class="img"><img loading="lazy" src="https://image.ibb.co/kL6AES/Top_SA_Nicky_Oppenheimer.jpg" alt="">
                             </div>
                             <div class="h4">Jessica</div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -202,7 +202,7 @@
                         </div>
 
                         <div>
-                            <div class="img"><img src="https://image.ibb.co/gUPag7/image.jpg" alt=""></div>
+                            <div class="img"><img loading="lazy" src="https://image.ibb.co/gUPag7/image.jpg" alt=""></div>
                             <div class="h4">Kellie</div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                                 ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
@@ -241,13 +241,13 @@
 
                         <div class="">
                             <section class="customer-logos slider">
-                                <div class="slide"><img src="images/clients/1.jpg"></div>
-                                <div class="slide"><img src="images/clients/2.jpg"></div>
-                                <div class="slide"><img src="images/clients/3.jpg"></div>
-                                <div class="slide"><img src="images/clients/4.jpg"></div>
-                                <div class="slide"><img src="images/clients/5.jpg"></div>
-                                <div class="slide"><img src="images/clients/3.jpg"></div>
-                                <div class="slide"><img src="images/clients/4.jpg"></div>
+                                <div class="slide"><img loading="lazy" src="images/clients/1.jpg"></div>
+                                <div class="slide"><img loading="lazy" src="images/clients/2.jpg"></div>
+                                <div class="slide"><img loading="lazy" src="images/clients/3.jpg"></div>
+                                <div class="slide"><img loading="lazy" src="images/clients/4.jpg"></div>
+                                <div class="slide"><img loading="lazy" src="images/clients/5.jpg"></div>
+                                <div class="slide"><img loading="lazy" src="images/clients/3.jpg"></div>
+                                <div class="slide"><img loading="lazy" src="images/clients/4.jpg"></div>
 
                             </section>
                         </div>

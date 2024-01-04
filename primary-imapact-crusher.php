@@ -7,7 +7,7 @@
                     <div class="col-md-12 pad-0 cstm-pad-15-single-page">
 
                         <div class="banner-product">
-                            <img src="images/primary-shaft-impact-crusher.jpg" class="img-responsive"
+                            <img loading="lazy" src="images/primary-shaft-impact-crusher.jpg" class="img-responsive"
                                  alt="apollo | primary shaft impact crusher"
                                  title="apollo | primary shaft impact crusher">
                         </div>

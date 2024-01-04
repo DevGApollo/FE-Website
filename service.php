@@ -9,7 +9,7 @@
 
                 <div class="col-lg-6 col-md-6 col-xs-12 servicebanner-1">
                     <a href="#">
-                        <img src="images/Services/service-page.jpg" class="sr-holder img-responsive" alt=""
+                        <img loading="lazy" src="images/Services/service-page.jpg" class="sr-holder img-responsive" alt=""
                              style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></a>
                 </div>
                 <div class="col-lg-6 col-md-6 col-xs-12">
@@ -61,7 +61,7 @@
                 <div class="col-md-12">
 
                     <div class="col-md-6">
-     <img src="images/Services/service-page.jpg" alt="" class="img-resposnive">
+     <img loading="lazy" src="images/Services/service-page.jpg" alt="" class="img-resposnive">
                     </div>
 
                     <div class="col-md-6">

@@ -11,7 +11,7 @@
                                 <div class="carousel-inner">
                                     <div class="item active" id="my">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/gp-cone-crusher/HP-Cone-Crusher.png"
                                                 /
                                                 alt="Cone Crusher" title="Cone Crusher">

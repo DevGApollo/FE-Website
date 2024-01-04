@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="title-h3 text-center cstm-title">
-                        <img src="images/Apollo-Circle.png" class="img-responsive text-center" alt="" style="width: 65px;height: 65px;margin: 0 auto 5px;display: table;
+                        <img loading="lazy" src="images/Apollo-Circle.png" class="img-responsive text-center" alt="" style="width: 65px;height: 65px;margin: 0 auto 5px;display: table;
                 ">
                         <h3>About us</h3>
                         <blockquote><!--  <h6 class="text-center"> --> Your dependable partner
@@ -19,7 +19,7 @@
 
                 <div class="col-md-6 col-xs-12 servicebanner-1">
                     <a href="#">
-                        <img src="images/about-us/about-us.jpg" class="sr-holder img-responsive" alt=""
+                        <img loading="lazy" src="images/about-us/about-us.jpg" class="sr-holder img-responsive" alt=""
                              style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></a>
                 </div>
                 <div class="col-md-6 col-xs-12">
@@ -60,7 +60,7 @@
                 </div>
                 <div class="col-md-6 col-xs-12 servicebanner-1">
                     <a href="#">
-                        <img src="images/about-us/about-us1.jpg" class="sr-holder img-responsive" alt=""
+                        <img loading="lazy" src="images/about-us/about-us1.jpg" class="sr-holder img-responsive" alt=""
                              style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></a>
                 </div>
             </div>
@@ -74,7 +74,7 @@
 
                 <div class="col-md-6 col-xs-12 servicebanner-1">
                     <a href="#">
-                        <img src="images/about-us/about-us1.jpg" class="sr-holder img-responsive" alt=""
+                        <img loading="lazy" src="images/about-us/about-us1.jpg" class="sr-holder img-responsive" alt=""
                              style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></a>
                 </div>
                 <div class="col-md-6 col-xs-12 ">
@@ -101,7 +101,7 @@
 
                 <div class="col-md-6 col-xs-12 servicebanner-1">
                     <a href="#">
-                        <img src="images/about-us/company-profile-image.jpg" class="sr-holder img-responsive" alt=""
+                        <img loading="lazy" src="images/about-us/company-profile-image.jpg" class="sr-holder img-responsive" alt=""
                              style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></a>
                 </div>
                 <div class="col-md-6 col-xs-12">
@@ -145,7 +145,7 @@
                 </div>
                 <div class="col-md-6 col-xs-12 servicebanner-1">
                     <a href="#">
-                        <img src="images/about-us/about-us2.jpg" class="sr-holder img-responsive" alt=""
+                        <img loading="lazy" src="images/about-us/about-us2.jpg" class="sr-holder img-responsive" alt=""
                              style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></a>
                 </div>
             </div>
@@ -157,7 +157,7 @@
 
                 <div class="col-md-6 col-xs-12 servicebanner-1">
                     <a href="#">
-                        <img src="images/about-us/about-us2.jpg" class="sr-holder img-responsive" alt=""
+                        <img loading="lazy" src="images/about-us/about-us2.jpg" class="sr-holder img-responsive" alt=""
                              style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></a>
                 </div>
                 <div class="col-md-6 col-xs-12">
@@ -181,7 +181,7 @@
         <!--                 <div class="container">
                             <div class="col-6 col-md-4 col-xs-12">
                                 <div class="about-img">
-                                    <img src="images/about-us/about-us/about-us.jpg" alt="">
+                                    <img loading="lazy" src="images/about-us/about-us/about-us.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-12 col-md-8 col-xs-12 pt-30">
@@ -234,7 +234,7 @@
                 <div class="col-md-6 col-xs-12 servicebanner-1">
 
                     <a href="#">
-                        <img src="images/facility/Facility.jpg" class="sr-holder img-responsive" alt=""
+                        <img loading="lazy" src="images/facility/Facility.jpg" class="sr-holder img-responsive" alt=""
                              style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></a>
                 </div>
                 <div class="col-md-6 col-xs-12">
@@ -272,7 +272,7 @@
                 </div>
                 <div class="col-md-6 col-xs-12 servicebanner-1">
                     <a href="#">
-                        <img src="images/about-us/about-us3.jpg" class="sr-holder img-responsive" alt=""
+                        <img loading="lazy" src="images/about-us/about-us3.jpg" class="sr-holder img-responsive" alt=""
                              style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></a>
                 </div>
 
@@ -285,7 +285,7 @@
 
                 <div class="col-md-6 col-xs-12 servicebanner-1">
                     <a href="#">
-                        <img src="images/about-us/about-us3.jpg" class="sr-holder img-responsive" alt=""
+                        <img loading="lazy" src="images/about-us/about-us3.jpg" class="sr-holder img-responsive" alt=""
                              style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></a>
                 </div>
                 <div class="col-md-6 col-xs-12">
@@ -314,15 +314,15 @@
 
               <div class="carousel-inner">
                 <div class="item active">
-                  <img src="images/facility/facility/Facility_01.JPG" alt="">
+                  <img loading="lazy" src="images/facility/facility/Facility_01.JPG" alt="">
 
                 </div>
                 <div class="item">
-                  <img src="images/facility/facility/Facility_02.JPG" alt="">
+                  <img loading="lazy" src="images/facility/facility/Facility_02.JPG" alt="">
 
                 </div>
                 <div class="item">
-                  <img src="images/facility/facility/Facility_03.JPG" alt="">
+                  <img loading="lazy" src="images/facility/facility/Facility_03.JPG" alt="">
 
                 </div>
               </div>

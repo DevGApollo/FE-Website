@@ -11,7 +11,7 @@
                                 <div class='carousel-inner'>
                                     <div class='item active' id="my">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/horizontal-shaft-impact-crusher/HS7-big.jpg"
                                                 / alt="apollo | HS7" title="apollo | HS7">
                                             </div>
@@ -85,7 +85,7 @@
                                     </div>
                                     <div class='item' id="my1">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/horizontal-shaft-impact-crusher/HS10-big.jpg"
                                                 / alt="apollo | HS10" title="apollo | HS10">
                                             </div>
@@ -161,7 +161,7 @@
 
                                     <div class='item' id="my2">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/horizontal-shaft-impact-crusher/HS12-big.jpg"
                                                 / alt="apollo | HS12" title="apollo | HS12">
                                             </div>
@@ -236,7 +236,7 @@
                                     </div>
                                     <div class='item' id="my3">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/horizontal-shaft-impact-crusher/HS14-big.jpg"
                                                 / alt="apollo | HS14" title="apollo | HS14">
                                             </div>
@@ -312,7 +312,7 @@
 
                                     <div class='item' id="my4">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/horizontal-shaft-impact-crusher/HS16-big.jpg"
                                                 / alt="apollo | HS16" title="apollo | HS16">
                                             </div>
@@ -400,20 +400,20 @@
 
                             <!-- thumb -->
                             <ol class='carousel-indicators carousel-indicators-cstm-img  meartlab'>
-                                <li data-target='#carousel-custom' data-slide-to='0' class='active'><img
+                                <li data-target='#carousel-custom' data-slide-to='0' class='active'><img loading="lazy"
                                             src='images/products/horizontal-shaft-impact-crusher/HS7-small.jpg' alt=''/><small>
                                         <h4 class="text-center-small">HS 7</h4></small></li>
-                                <li data-target='#carousel-custom' data-slide-to='1'><img
+                                <li data-target='#carousel-custom' data-slide-to='1'><img loading="lazy"
                                             src='images/products/horizontal-shaft-impact-crusher/HS10-small.jpg'
                                             alt=''/><small><h4 class="text-center-small">HS 10</h4></small></li>
 
-                                <li data-target='#carousel-custom' data-slide-to='2'><img
+                                <li data-target='#carousel-custom' data-slide-to='2'><img loading="lazy"
                                             src='images/products/horizontal-shaft-impact-crusher/HS12-small.jpg'
                                             alt=''/><small><h4 class="text-center-small">HS 12</h4></small></li>
-                                <li data-target='#carousel-custom' data-slide-to='3'><img
+                                <li data-target='#carousel-custom' data-slide-to='3'><img loading="lazy"
                                             src='images/products/horizontal-shaft-impact-crusher/HS14-small.jpg'
                                             alt=''/><small><h4 class="text-center-small">HS 14</h4></small></li>
-                                <li data-target='#carousel-custom' data-slide-to='4'><img
+                                <li data-target='#carousel-custom' data-slide-to='4'><img loading="lazy"
                                             src='images/products/horizontal-shaft-impact-crusher/HS16-small.jpg'
                                             alt=''/><small><h4 class="text-center-small">HS 16</h4></small></li>
                             </ol>

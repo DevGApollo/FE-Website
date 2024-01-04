@@ -11,7 +11,7 @@
                             <div class="carousel-inner">
                                 <div class="item active" id="my">
                                     <div class="row">
-                                        <div class="col-md-6"><img class="img-responsive" alt=""
+                                        <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                    src="images/products/vertical-shaft-impact-crusher/Vertical-Shaft-Impact-Crusher.png"
                                             / alt="Vertical Shaft Impact Crusher" title="Vertical Shaft Impact Crusher">
                                         </div>

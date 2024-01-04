@@ -65,7 +65,7 @@
     color: #000;
     /* margin: 0px 0px 5px 0px; */">From The Desk Of MD</h3>
 
-                        <!--  <img src="images/signature.png" alt="" title="" class="img-responsive" style="width: 20%;"> -->
+                        <!--  <img loading="lazy" src="images/signature.png" alt="" title="" class="img-responsive" style="width: 20%;"> -->
 
                         <div class="spacer-double" style="background-size: cover;"></div>
 

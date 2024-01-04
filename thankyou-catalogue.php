@@ -60,7 +60,7 @@
                                 <h2 style="text-align: center;">Thankyou Catalogue Download</h2>
                                 <a id="lnnk" href='PDF/<?php echo $_REQUEST['varname']; ?>'
                                    style="display:block; color: #0081b8;" target="_blank" download>
-                                    <!-- <div class="message" style="display:block;margin:100px 0 13px;text-align:center"><img src="images/download_gif.gif"  class="center-block" style="width: auto;">Click Here For Your  Requested Catalogue Download</div> -->
+                                    <!-- <div class="message" style="display:block;margin:100px 0 13px;text-align:center"><img loading="lazy" src="images/download_gif.gif"  class="center-block" style="width: auto;">Click Here For Your  Requested Catalogue Download</div> -->
                                 </a>
 
                             </div>

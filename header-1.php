@@ -66,10 +66,10 @@ error_reporting(E_ALL);
 <body class="home" id="page-top">
 <?php include('pop-model.php') ?>
 <!-- <div style="left:0; position:fixed; top:230px; z-index:10000;" class=" click1 imgnone hidden-xs hidden-sm">
-    <a href="" ><img src="images/inq.btn.png" alt="quit"></a>
+    <a href="" ><img loading="lazy" src="images/inq.btn.png" alt="quit"></a>
 </div>
 <div style="right:0; position:fixed; top:230px; z-index:10000;" class=" imgnone hidden-xs hidden-sm">
-    <a href="download.php"><img src="images/overview.brochure.png" alt="quit"></a>
+    <a href="download.php"><img loading="lazy" src="images/overview.brochure.png" alt="quit"></a>
 </div> -->
 <!-- <div class="modal fade" id="quickinquiry" role="dialog">
     <div class="modal-dialog modal-sm">
@@ -80,7 +80,7 @@ error_reporting(E_ALL);
             </div>
             <div class="modal-body stick_popup">
                 <div class="col-md-5 col-sm-5 col-xs-12">
-                    <img src="images/footer-logo-orange.png" class="img-responsive pop-img center-block">
+                    <img loading="lazy" src="images/footer-logo-orange.png" class="img-responsive pop-img center-block">
                     <h3 class="text-center headerh3">Get More Information<br><b><a style="color: #000;font-weight: bold;" href="mailto:info@apollo.co.in" onclick="gtag('event', 'send', { 'event_category': 'click on mail', 'event_action': 'mailto', 'event_label': 'info@apollo.co.in' });">info@apollo.co.in</a></b></h3>
                 </div>
                 <div class="col-md-7 col-sm-7 col-xs-12">
@@ -147,7 +147,7 @@ error_reporting(E_ALL);
                                     <span class="form-control-feedback glyphicon glyphicon-ok"></span>
                                 </div>
                                 <div class="col-md-4">
-                                    <img src="captcha.php" class="capside">
+                                    <img loading="lazy" src="captcha.php" class="capside">
                                 </div>
                             </div>
                         </div>
@@ -173,7 +173,7 @@ error_reporting(E_ALL);
             </div>
             <div class="modal-body stick_popup">
                 <div class="col-md-5 col-sm-5 col-xs-12">
-                    <img src="images/footer-logo-orange.png" class="img-responsive pop-img center-block">
+                    <img loading="lazy" src="images/footer-logo-orange.png" class="img-responsive pop-img center-block">
                     <h3 class="text-center headerh3">Get More Information<br><b><a style="color: #000;font-weight: bold;" href="mailto:info@apollo.co.in" onclick="gtag('event', 'send', { 'event_category': 'click on mail', 'event_action': 'mailto', 'event_label': 'info@apollo.co.in' });">info@apollo.co.in</a></b></h3>
                 </div>
                 <div class="col-md-7 col-sm-7 col-xs-12">
@@ -222,7 +222,7 @@ error_reporting(E_ALL);
                                     <span class="form-control-feedback glyphicon glyphicon-ok"></span>
                                 </div>
                                 <div class="col-md-4">
-                                    <img src="captcha.php" class="capside">
+                                    <img loading="lazy" src="captcha.php" class="capside">
                                 </div>
                             </div>
                         </div>
@@ -253,7 +253,7 @@ error_reporting(E_ALL);
     </div>
 </div> -->
 <div class="logo hidden-print">
-    <a href="index.php"><img src="fileadmin/templates/_media/logo-apollo.png" width="100%" height="115" alt=""/></a>
+    <a href="index.php"><img loading="lazy" src="fileadmin/templates/_media/logo-apollo.png" width="100%" height="115" alt=""/></a>
 </div>
 <div class="header-fixed hidden-print">
     <!--
@@ -369,10 +369,10 @@ error_reporting(E_ALL);
                                 <p>
                                     <a href="mailto:info@apollo.co.in"
                                        onclick="gtag('event', 'send', {'event_category': 'click on email', 'event_action': 'mailto', 'event_label': 'info@apollo.co.in' });"
-                                       class="external-link-new-window" style="text-transform: lowercase;"><img
+                                       class="external-link-new-window" style="text-transform: lowercase;"><img loading="lazy"
                                                 src="fileadmin/templates/_media/mail.png" alt="" width="18" height="18">info@apollo.co.in</a>
                                     <a href="tel:917926444597"
-                                       onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '917926444597' });"><img
+                                       onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '917926444597' });"><img loading="lazy"
                                                 src="fileadmin/templates/_media/phone.png" alt="" width="18"
                                                 height="18">+91 7926444597/98</a>
                                 </p>
@@ -596,7 +596,7 @@ error_reporting(E_ALL);
                                                                                                         <a href="jaw-crusher.php"
                                                                                                            class="text-center cstm-center">Jaw
                                                                                                             Crusher</a>
-                                                                                                        <a href="jaw-crusher.php"><img
+                                                                                                        <a href="jaw-crusher.php"><img loading="lazy"
                                                                                                                     src="images/products/jaw-crusher/Jaw-Crusher_Menu.png"
                                                                                                                     alt=""
                                                                                                                     title=""></a>
@@ -618,7 +618,7 @@ error_reporting(E_ALL);
                                                                                                            class="text-center cstm-center">HP
                                                                                                             Cone
                                                                                                             Crusher</a>
-                                                                                                        <a href="cone-crusher.php"><img
+                                                                                                        <a href="cone-crusher.php"><img loading="lazy"
                                                                                                                     src="images/products/cone-crusher/Cone-Crusher-Menu.png"
                                                                                                                     alt=""
                                                                                                                     title=""></a>
@@ -640,7 +640,7 @@ error_reporting(E_ALL);
                                                                                                            class="text-center cstm-center">GP
                                                                                                             Cone
                                                                                                             Crusher</a>
-                                                                                                        <a href="gp-cone-crusher.php"><img
+                                                                                                        <a href="gp-cone-crusher.php"><img loading="lazy"
                                                                                                                     src="images/products/gp-cone-crusher/HP-Cone-Crusher.png"
                                                                                                                     alt=""
                                                                                                                     title=""></a>
@@ -663,7 +663,7 @@ error_reporting(E_ALL);
                                                                                                             Shaft
                                                                                                             Impactor
                                                                                                             Crusher</a>
-                                                                                                        <!--    <a href="horizontal-shaft-impact-crusher.php"><img src="images/products/horizontal-shaft-impact-crusher/Horizontal-Shaft-Impact-Crusher_Menu.png"  alt="" title=""></a> -->
+                                                                                                        <!--    <a href="horizontal-shaft-impact-crusher.php"><img loading="lazy" src="images/products/horizontal-shaft-impact-crusher/Horizontal-Shaft-Impact-Crusher_Menu.png"  alt="" title=""></a> -->
                                                                                                     </li>
                                                                                                 </ul>
                                                                                             </div>
@@ -682,7 +682,7 @@ error_reporting(E_ALL);
                                                                                                            class="text-center cstm-center">Vertical
                                                                                                             Shaft Impact
                                                                                                             Crusher</a>
-                                                                                                        <a href="vertical-shaft-impact-crusher.php"><img
+                                                                                                        <a href="vertical-shaft-impact-crusher.php"><img loading="lazy"
                                                                                                                     src="images/products/vertical-shaft-impact-crusher/Vertical-Shaft-Impact-Crusher.png"
                                                                                                                     alt=""
                                                                                                                     title=""></a>
@@ -703,7 +703,7 @@ error_reporting(E_ALL);
                                                                                                         <a href="vibrating-screen.php"
                                                                                                            class="text-center cstm-center">Vibrating
                                                                                                             Screening</a>
-                                                                                                        <a href="vibrating-screen.php"><img
+                                                                                                        <a href="vibrating-screen.php"><img loading="lazy"
                                                                                                                     src="images/products/vibrating-screening/Vibrating-Screening_Menu.png"
                                                                                                                     alt=""
                                                                                                                     title=""></a>
@@ -735,7 +735,7 @@ error_reporting(E_ALL);
                                                                                                             Crushing &
                                                                                                             Screening
                                                                                                             Plant</a>
-                                                                                                        <a href="mobile-crushing-screening-plant.php"><img
+                                                                                                        <a href="mobile-crushing-screening-plant.php"><img loading="lazy"
                                                                                                                     src="images/products/mobile-crushing-screening-plant/Mobile-Crushing-&-Screening-Plant_Menu.png"
                                                                                                                     alt=""
                                                                                                                     title=""></a>
@@ -766,13 +766,13 @@ error_reporting(E_ALL);
                                                                                                            class="text-center cstm-center">Crushing
                                                                                                             & Screening
                                                                                                             Plant</a>
-                                                                                                        <a href="crushing-screening-plant.php"><img
+                                                                                                        <a href="crushing-screening-plant.php"><img loading="lazy"
                                                                                                                     src="images/products/crushing-screening-plant/Crushing-&-Screening-Menu.png"
                                                                                                                     alt=""
                                                                                                                     title=""></a>
                                                                                                     </li>
                                                                                                     <!-- <li>
-                                                                                                        <a href="" class="text-center cstm-center">B1050</a><a href=""><img src="images/products/"  alt="" title=""></a>
+                                                                                                        <a href="" class="text-center cstm-center">B1050</a><a href=""><img loading="lazy" src="images/products/"  alt="" title=""></a>
                                                                                                     </li> -->
                                                                                                     <!--        <li><a href="#">Web Design <span class="fa fa-laptop"></span></a></li> -->
                                                                                                     <!--                                                                         <li><a href="#">Web Development <span class="fa fa-gears"></span></a></li>
@@ -799,7 +799,7 @@ error_reporting(E_ALL);
                                                                                                         <a href="other-products.php"
                                                                                                            class="text-center cstm-center">Other
                                                                                                             Products</a>
-                                                                                                        <!-- <a href="other-products.php"><img src="images/products/other-products/Bucket-Crusher-Menu.png"  alt="" title=""></a> -->
+                                                                                                        <!-- <a href="other-products.php"><img loading="lazy" src="images/products/other-products/Bucket-Crusher-Menu.png"  alt="" title=""></a> -->
                                                                                                     </li>
                                                                                                 </ul>
                                                                                             </div>
@@ -818,7 +818,7 @@ error_reporting(E_ALL);
                                                                                                            class="text-center cstm-center">Secondary
                                                                                                             Impact
                                                                                                             Crusher</a>
-                                                                                                        <a href="secondary-impact-crusher.php"><img
+                                                                                                        <a href="secondary-impact-crusher.php"><img loading="lazy"
                                                                                                                     src="images/products/horizontal-shaft-impact-crusher/HS7(540X386).png"
                                                                                                                     alt=""
                                                                                                                     title=""></a>
@@ -840,7 +840,7 @@ error_reporting(E_ALL);
                                                                                                            class="text-center cstm-center">Primary
                                                                                                             Impact
                                                                                                             Crusher</a>
-                                                                                                        <a href="primary-imapact-crusher.php"><img
+                                                                                                        <a href="primary-imapact-crusher.php"><img loading="lazy"
                                                                                                                     src="images/psic-menu.png"
                                                                                                                     alt=""
                                                                                                                     title=""></a>
@@ -861,7 +861,7 @@ error_reporting(E_ALL);
                                                                                                         <a href="bucket-crusher.php"
                                                                                                            class="text-center cstm-center">Bucket
                                                                                                             Crusher</a>
-                                                                                                        <a href="bucket-crusher.php"><img
+                                                                                                        <a href="bucket-crusher.php"><img loading="lazy"
                                                                                                                     src="images/products/other-products/Bucket-Crusher(540X386).png"
                                                                                                                     alt=""
                                                                                                                     title=""></a>
@@ -883,7 +883,7 @@ error_reporting(E_ALL);
                                                                                                            class="text-center cstm-center">Coal
                                                                                                             Sampling
                                                                                                             Unit</a>
-                                                                                                        <a href="coal-sampling-unit.php"><img
+                                                                                                        <a href="coal-sampling-unit.php"><img loading="lazy"
                                                                                                                     src="images/products/other-products/Coal-Sampling-unit.jpg"
                                                                                                                     alt=""
                                                                                                                     title=""></a>
@@ -905,7 +905,7 @@ error_reporting(E_ALL);
                                                                                                            class="text-center cstm-center">Horizontal
                                                                                                             Shaft Impact
                                                                                                             Crusher</a>
-                                                                                                        <a href="#"><img
+                                                                                                        <a href="#"><img loading="lazy"
                                                                                                                     src="images/white-bg.jpg"
                                                                                                                     alt=""
                                                                                                                     title=""></a>
@@ -926,7 +926,7 @@ error_reporting(E_ALL);
                                                                                                         <a href="#"
                                                                                                            class="text-center cstm-center">Other
                                                                                                             Products</a>
-                                                                                                        <a href="#"><img
+                                                                                                        <a href="#"><img loading="lazy"
                                                                                                                     src="images/white-bg.jpg"
                                                                                                                     alt=""
                                                                                                                     title=""></a>
@@ -984,8 +984,8 @@ error_reporting(E_ALL);
                                             Quality   <!-- <span class="glyphicon glyphicon-menu-down"></span> -->
                                         </a>
                                         <!--   <ul class="dropdown-menu">
-                                            <li><img src="fileadmin/templates/_media/menu-images/menu-bild-04-telematics.jpg" width="544" height="286"   alt="Telematics System" title="Telematics System" ><a href="en/telematics/telematics-system.html">Telematics System</a></li>
-                                            <li><img src="fileadmin/templates/_media/menu-images/menu-bild-04-telematics-login.jpg" width="544" height="286"   alt="Telematics Login" title="Telematics Login" ><a href="http://terexfuchs.proemion.com/" target="_blank">Telematics Login</a></li>
+                                            <li><img loading="lazy" src="fileadmin/templates/_media/menu-images/menu-bild-04-telematics.jpg" width="544" height="286"   alt="Telematics System" title="Telematics System" ><a href="en/telematics/telematics-system.html">Telematics System</a></li>
+                                            <li><img loading="lazy" src="fileadmin/templates/_media/menu-images/menu-bild-04-telematics-login.jpg" width="544" height="286"   alt="Telematics Login" title="Telematics Login" ><a href="http://terexfuchs.proemion.com/" target="_blank">Telematics Login</a></li>
                                         </ul> -->
                                     </li>
                                     <li class="dropdown">
@@ -993,10 +993,10 @@ error_reporting(E_ALL);
                                             Services     <!-- <span class="glyphicon glyphicon-menu-down"></span> -->
                                         </a>
                                         <!-- <ul class="dropdown-menu">
-                                            <li><img src="fileadmin/templates/_media/menu-images/menu-bild-05-fuchs.jpg" width="544" height="286"   alt="Fuchs" title="Fuchs" ><a href="en/company/fuchs.html">Fuchs</a></li>
-                                            <li><img src="fileadmin/templates/_media/menu-images/menu-bild-05-historie.jpg" width="544" height="286"   alt="History" title="History" ><a href="en/company/history.html">History</a></li>
-                                            <li><img src="fileadmin/templates/_media/menu-images/menu-bild-05-terex.jpg" width="544" height="286"   alt="Terex" title="Terex" ><a href="en/company/terex.html">Terex</a></li>
-                                            <li><img src="fileadmin/templates/_media/menu-images/menu-bild-05-karriere.jpg" width="544" height="286"   alt="Career" title="Career" ><a href="http://terex.jobs/" target="_blank">Career</a></li>
+                                            <li><img loading="lazy" src="fileadmin/templates/_media/menu-images/menu-bild-05-fuchs.jpg" width="544" height="286"   alt="Fuchs" title="Fuchs" ><a href="en/company/fuchs.html">Fuchs</a></li>
+                                            <li><img loading="lazy" src="fileadmin/templates/_media/menu-images/menu-bild-05-historie.jpg" width="544" height="286"   alt="History" title="History" ><a href="en/company/history.html">History</a></li>
+                                            <li><img loading="lazy" src="fileadmin/templates/_media/menu-images/menu-bild-05-terex.jpg" width="544" height="286"   alt="Terex" title="Terex" ><a href="en/company/terex.html">Terex</a></li>
+                                            <li><img loading="lazy" src="fileadmin/templates/_media/menu-images/menu-bild-05-karriere.jpg" width="544" height="286"   alt="Career" title="Career" ><a href="http://terex.jobs/" target="_blank">Career</a></li>
                                         </ul> -->
                                     </li>
                                     <li><a class="app" href="index.php#application" id="app" title="">Applications</a>

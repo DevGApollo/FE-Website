@@ -7,7 +7,7 @@
                     <div class="col-md-12 pad-0 cstm-pad-15-single-page">
 
                         <div class="banner-product">
-                            <img src="images/new-center/Crushing-and-Screen.jpg" class="img-responsive"
+                            <img loading="lazy" src="images/new-center/Crushing-and-Screen.jpg" class="img-responsive"
                                  alt="Crushing and Screen" title="Crushing and Screen">
                         </div>
 

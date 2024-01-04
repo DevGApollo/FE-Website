@@ -11,7 +11,7 @@
                                 <div class='carousel-inner'>
                                     <!--                                     <div class='item active' id="my">
                                                            <div class="row">
-                                                            <div class="col-md-6"> <img class="img-responsive" alt="" src="images/products/other-products/Bucket-Crusher(540X386).png" / alt="" title=""></div>
+                                                            <div class="col-md-6"> <img loading="lazy" class="img-responsive" alt="" src="images/products/other-products/Bucket-Crusher(540X386).png" / alt="" title=""></div>
                                                    <div class="col-md-6">
 
                                                <div class="ce-textpic ce-right ce-intext">
@@ -90,7 +90,7 @@
                                                         </div> -->
                                     <div class='item active' id="my1">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/other-products/Coal-Sampling-unit.jpg"
                                                 / alt="Coal Sampling unit" title="Coal Sampling unit">
                                             </div>
@@ -156,8 +156,8 @@
 
                             <!-- thumb -->
                             <!--                             <ol class='carousel-indicators cstm-full-width-two  meartlab'>
-                                                <li data-target='#carousel-custom' data-slide-to='0' class='active'><img src='images/products/other-products/Bucket-Crusher(280X200).png' alt='' /><small> <h4 class="text-center-small text-center-small1">Bucket Crusher</h4></small></li>
-                                                <li data-target='#carousel-custom' data-slide-to='1'><img src='images/products/other-products/Coal-Sampling-unit.jpg' alt='' /><small> <h4 class="text-center-small text-center-small2">Coal Sampling Unit</h4></small></li>
+                                                <li data-target='#carousel-custom' data-slide-to='0' class='active'><img loading="lazy" src='images/products/other-products/Bucket-Crusher(280X200).png' alt='' /><small> <h4 class="text-center-small text-center-small1">Bucket Crusher</h4></small></li>
+                                                <li data-target='#carousel-custom' data-slide-to='1'><img loading="lazy" src='images/products/other-products/Coal-Sampling-unit.jpg' alt='' /><small> <h4 class="text-center-small text-center-small2">Coal Sampling Unit</h4></small></li>
 
 
                                             </ol> -->

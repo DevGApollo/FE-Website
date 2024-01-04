@@ -10,10 +10,10 @@
         <div class="row">
             <div class="col-md-3 col-sm-12">
 
-                <div class="footer-logo"><img src="images/footer-logo-orange.png" alt="" width="262" height="40">
+                <div class="footer-logo"><img loading="lazy" src="images/footer-logo-orange.png" alt="" width="262" height="40">
                 </div>
-                <p><img src="images/certificate.png"></p>
-                <p><img src="images/make-in-india.png"></p>
+                <p><img loading="lazy" src="images/certificate.png"></p>
+                <p><img loading="lazy" src="images/make-in-india.png"></p>
 
             </div>
             <div class="col-md-3 col-sm-12">
@@ -41,13 +41,13 @@
                     5-B Rashmi Society, Mithakhali,
                     Navrangpura,Ahmedabad-380009,<br> Gujarat, India.
                 </div>
-                <div class="info phone-1"><img src="images/phone.png" alt=""> <a href="tel:917926444597"
+                <div class="info phone-1"><img loading="lazy" src="images/phone.png" alt=""> <a href="tel:917926444597"
                                                                                  onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '917926444597' });">+91
                         79 - 26444597 </a><span style="color: #fff;"> / </span> <a href="tel:917926444598"
                                                                                    onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '917926444598' });">26444598</a>
                 </div>
-                <div class="info fax-1"><img src="images/fax.png" alt=""> <a href="">+91 79 - 26564705</a></div>
-                <div class="info email-1"><img src="images/mail.png" alt=""> <a href="mailto:info@apollo.co.in"
+                <div class="info fax-1"><img loading="lazy" src="images/fax.png" alt=""> <a href="">+91 79 - 26564705</a></div>
+                <div class="info email-1"><img loading="lazy" src="images/mail.png" alt=""> <a href="mailto:info@apollo.co.in"
                                                                                 onclick="gtag('event', 'send', {'event_category': 'click on email', 'event_action': 'mailto', 'event_label': 'info@apollo.co.in' });">info@apollo.co.in</a>
                 </div>
                 <div class="clearfix"></div>
@@ -145,7 +145,7 @@
 
                                     </div>
                                     <div class="col-md-4 col">
-                                        <img src="captcha.php" class="capside">
+                                        <img loading="lazy" src="captcha.php" class="capside">
                                     </div>
                                 </div>
                             </div>
@@ -165,7 +165,7 @@
         </div>
         <div class="footer-certi">
             <ul class="footer-cert-links">
-                <li><a href="javascript:;"><img src="images/footer-be-vocal-text.png" alt=""></a></li>
+                <li><a href="javascript:;"><img loading="lazy" src="images/footer-be-vocal-text.png" alt=""></a></li>
 
             </ul>
         </div>

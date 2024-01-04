@@ -28,7 +28,7 @@
                 <div class="row mt-40">
                     <div class="col-md-5 col-sm-12 col-xs-12">
                         <div class="logo-wrapper">
-                            <img src="images/footer-logo-orange.png">
+                            <img loading="lazy" src="images/footer-logo-orange.png">
                             <button class="btn-modal-gra">
                                 <a class="content-p" href="mailto:info@apollo.co.in"
                                    onclick="gtag('event', 'send', { 'event_category': 'click on mail', 'event_action': 'mailto', 'event_label': 'info@apollo.co.in' });">info@apollo.co.in</a>
@@ -135,7 +135,7 @@
 
                                             </div>
                                             <div class="col-md-4 col">
-                                                <img src="captcha.php" class="capside">
+                                                <img loading="lazy" src="captcha.php" class="capside">
                                             </div>
                                         </div>
                                     </div>
@@ -182,7 +182,7 @@
                 <div class="row mt-40">
                     <div class="col-md-5 col-sm-12 col-xs-12 px-0">
                         <div class="logo-wrapper">
-                            <img src="images/footer-logo-orange.png">
+                            <img loading="lazy" src="images/footer-logo-orange.png">
                             <button class="btn-modal-gra">
                                 <a class="content-p" href="mailto:info@apollo.co.in"
                                    onclick="gtag('event', 'send', { 'event_category': 'click on mail', 'event_action': 'mailto', 'event_label': 'info@apollo.co.in' });">info@apollo.co.in</a>
@@ -251,7 +251,7 @@
 
                                             </div>
                                             <div class="col-md-4">
-                                                <img src="captcha.php" class="capside">
+                                                <img loading="lazy" src="captcha.php" class="capside">
                                             </div>
                                         </div>
                                     </div>

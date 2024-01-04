@@ -19,7 +19,7 @@
                                                     <div class="ce-column">
                                                         <div class="ce-media">
                                                             <a href="#">
-                                                                <img title="" alt=""
+                                                                <img loading="lazy" title="" alt=""
                                                                      src="images/Mobile-Jaw-Crushing.jpg"
                                                                      width="1902" height="896"
                                                                      alt="apollo | Mobile Jaw Crushing"
@@ -53,7 +53,7 @@
                                                 <div class="ce-row">
                                                     <div class="ce-column">
                                                         <div class="ce-media">
-                                                            <img title="" alt="" src="images/Mobile-Screening.jpg"
+                                                            <img loading="lazy" title="" alt="" src="images/Mobile-Screening.jpg"
                                                                  width="1902" height="896"/>
                                                         </div>
                                                     </div>
@@ -83,7 +83,7 @@
                                                 <div class="ce-row">
                                                     <div class="ce-column">
                                                         <div class="ce-media">
-                                                            <img title="" alt=""
+                                                            <img loading="lazy" title="" alt=""
                                                                  src="images/mobile-impact-crusher-last.jpg"
                                                                  width="1902" height="896"/>
                                                         </div>
@@ -125,7 +125,7 @@
 
 
                         <!--  <div class="banner-product">
-        <img src="images/products/1920X800/Mobile-Crushing-&-Screening-Plant_(1920X800)1.png" class="img-responsive" alt="">
+        <img loading="lazy" src="images/products/1920X800/Mobile-Crushing-&-Screening-Plant_(1920X800)1.png" class="img-responsive" alt="">
       </div> -->
 
 

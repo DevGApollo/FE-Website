@@ -11,7 +11,7 @@
                                 <div class='carousel-inner'>
                                     <div class='item active' id="my">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/horizontal-shaft-impact-crusher/HS7(540X386).png"
                                                 /
                                                 alt="apollo | horizontal shaft impact crusher | HS7"
@@ -90,7 +90,7 @@
                                     </div>
                                     <div class='item' id="my1">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/horizontal-shaft-impact-crusher/HS10(540X386).png"
                                                 / alt="apollo | horizontal shaft impact crusher | HS10"
                                                 title="apollo | horizontal shaft impact crusher | HS10">
@@ -169,7 +169,7 @@
 
                                     <div class='item' id="my2">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/horizontal-shaft-impact-crusher/HS12(540X386).png"
                                                 / alt="apollo | horizontal shaft impact crusher | HS12"
                                                 title="apollo | horizontal shaft impact crusher | HS12">
@@ -248,7 +248,7 @@
                                     </div>
                                     <div class='item' id="my3">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/horizontal-shaft-impact-crusher/HS14(540X386).png"
                                                 / alt="apollo | horizontal shaft impact crusher | HS14"
                                                 title="apollo | horizontal shaft impact crusher | HS14">
@@ -327,7 +327,7 @@
 
                                     <div class='item' id="my4">
                                         <div class="row">
-                                            <div class="col-md-6"><img class="img-responsive" alt=""
+                                            <div class="col-md-6"><img loading="lazy" class="img-responsive" alt=""
                                                                        src="images/products/horizontal-shaft-impact-crusher/HS16(540X386).png"
                                                 / alt="apollo | horizontal shaft impact crusher | HS16"
                                                 title="apollo | horizontal shaft impact crusher | HS16">
@@ -418,28 +418,28 @@
 
                             <!-- thumb -->
                             <ol class='carousel-indicators carousel-indicators-cstm-img  meartlab cstm-1024'>
-                                <li data-target='#carousel-custom' data-slide-to='0' class='active'><img
+                                <li data-target='#carousel-custom' data-slide-to='0' class='active'><img loading="lazy"
                                             src='images/products/horizontal-shaft-impact-crusher/HS7(280X200).png'
                                             alt=''/><small>
                                         <h4 class="text-center-small">HS 7</h4>
                                     </small></li>
-                                <li data-target='#carousel-custom' data-slide-to='1'><img
+                                <li data-target='#carousel-custom' data-slide-to='1'><img loading="lazy"
                                             src='images/products/horizontal-shaft-impact-crusher/HS10(280X200).png'
                                             alt=''/><small>
                                         <h4 class="text-center-small">HS 10</h4>
                                     </small></li>
 
-                                <li data-target='#carousel-custom' data-slide-to='2'><img
+                                <li data-target='#carousel-custom' data-slide-to='2'><img loading="lazy"
                                             src='images/products/horizontal-shaft-impact-crusher/HS12(280X200).png'
                                             alt=''/><small>
                                         <h4 class="text-center-small">HS 12</h4>
                                     </small></li>
-                                <li data-target='#carousel-custom' data-slide-to='3'><img
+                                <li data-target='#carousel-custom' data-slide-to='3'><img loading="lazy"
                                             src='images/products/horizontal-shaft-impact-crusher/HS14(280X200).png'
                                             alt=''/><small>
                                         <h4 class="text-center-small">HS 14</h4>
                                     </small></li>
-                                <li data-target='#carousel-custom' data-slide-to='4'><img
+                                <li data-target='#carousel-custom' data-slide-to='4'><img loading="lazy"
                                             src='images/products/horizontal-shaft-impact-crusher/HS16(280X200).png'
                                             alt=''/><small>
                                         <h4 class="text-center-small">HS 16</h4>
