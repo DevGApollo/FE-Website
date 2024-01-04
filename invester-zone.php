@@ -41,9 +41,9 @@
             <div class="tab-content col-md-9">
                 <div class="tab-pane active" id="tab_a">
                     <div class="">
-                        <div id="demo-listing" class="lists-group row">
-
-                        </div>
+<!--                        <div id="demo-listing" class="lists-group row">-->
+<!---->
+<!--                        </div>-->
                         <div class="row">
                             <div class="list-group gallery">
                                 <!-- ======================================= -->
