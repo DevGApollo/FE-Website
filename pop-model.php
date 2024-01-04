@@ -42,10 +42,11 @@
 
 
                         <div class="widget footer-widgets tag-widget">
-                            <input id="inquiery-model" value="<?= $_COOKIE['inquierymodel']; ?>" type="hidden"/>
-                            <input id="isloadopenmodel" value="<?= $_COOKIE['isloadopenmodel']; ?>" type="hidden"/>
+<!--                            <input style="display: none" id="inquiery-model" value="--><?php //= $_COOKIE['inquierymodel']; ?><!--"-->
+<!--                                   type="hidden"/>-->
+<!--                            <input style="display: none" id="isloadopenmodel" value="--><?php //= $_COOKIE['isloadopenmodel']; ?><!--" type="hidden"/>-->
 
-                            <input name="junk_trap" class="junk_trap" type="hidden"/>
+                            <input style="display: none" name="junk_trap" class="junk_trap" type="hidden"/>
 
                             <form class="form-horizontal form1" action="quick_action.php" method="post"
                                   novalidate="novalidate">
