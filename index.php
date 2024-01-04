@@ -14,7 +14,7 @@
                                 <div class="ce-column">
                                     <div class="ce-media">
                                         <a href="#">
-                                            <img title="apollo | Jaw Crusher" alt="apollo | Jaw Crusher"
+                                            <img loading="lazy" title="apollo | Jaw Crusher" alt="apollo | Jaw Crusher"
                                                  src="fileadmin/templates/_media/banner-slider/new-banner-slider/1-Jaw-Crusher.jpg"
                                                  width="1902" height="896"/>
                                         </a>
@@ -35,7 +35,7 @@
                             <div class="ce-row">
                                 <div class="ce-column">
                                     <div class="ce-media">
-                                        <img title="apollo | Cone Crusher" alt="apollo | Cone Crusher"
+                                        <img loading="lazy" title="apollo | Cone Crusher" alt="apollo | Cone Crusher"
                                              src="fileadmin/templates/_media/banner-slider/new-banner-slider/2-ConeCrusher.jpg"
                                              width="1902" height="896"/>
                                     </div>
@@ -54,7 +54,7 @@
                             <div class="ce-row">
                                 <div class="ce-column">
                                     <div class="ce-media">
-                                        <img title="apollo | Horizontal" alt="apollo | Horizontal"
+                                        <img loading="lazy" title="apollo | Horizontal" alt="apollo | Horizontal"
                                              src="fileadmin/templates/_media/banner-slider/new-banner-slider/3-Horizontal.jpg"
                                              width="1902" height="896"/>
                                     </div>
@@ -73,7 +73,7 @@
                             <div class="ce-row">
                                 <div class="ce-column">
                                     <div class="ce-media">
-                                        <img title="apollo | Vertical" alt="apollo | Vertical"
+                                        <img loading="lazy" title="apollo | Vertical" alt="apollo | Vertical"
                                              src="fileadmin/templates/_media/banner-slider/new-banner-slider/4-Vertical.jpg"
                                              width="1902" height="896"/>
                                     </div>
@@ -92,7 +92,7 @@
                             <div class="ce-row">
                                 <div class="ce-column">
                                     <div class="ce-media">
-                                        <img title="apollo | vibrating screen" alt="apollo | vibrating screen"
+                                        <img loading="lazy" title="apollo | vibrating screen" alt="apollo | vibrating screen"
                                              src="fileadmin/templates/_media/banner-slider/new-banner-slider/5-Vibrating-Screen.jpg"
                                              width="1902" height="896"/>
                                     </div>
@@ -111,7 +111,7 @@
                             <div class="ce-row">
                                 <div class="ce-column">
                                     <div class="ce-media">
-                                        <img title="apollo | Mobile Crushing Plant"
+                                        <img loading="lazy" title="apollo | Mobile Crushing Plant"
                                              alt="apollo | Mobile Crushing Plant"
                                              src="fileadmin/templates/_media/banner-slider/new-banner-slider/6-Mobile-Crushing-Plant.jpg"
                                              width="1902" height="896"/>
@@ -131,7 +131,7 @@
                             <div class="ce-row">
                                 <div class="ce-column">
                                     <div class="ce-media">
-                                        <img title="apollo | Crushing and Screen" alt="apollo | Crushing and Screen"
+                                        <img loading="lazy" title="apollo | Crushing and Screen" alt="apollo | Crushing and Screen"
                                              src="fileadmin/templates/_media/banner-slider/new-banner-slider/7-Crushing-and-Screen.jpg"
                                              width="1902" height="896"/>
                                     </div>
@@ -150,7 +150,7 @@
                             <div class="ce-row">
                                 <div class="ce-column">
                                     <div class="ce-media">
-                                        <img title="apollo | company profile" alt="apollo | company profile"
+                                        <img loading="lazy" title="apollo | company profile" alt="apollo | company profile"
                                              src="fileadmin/templates/_media/banner-slider/new-banner-slider/Company-Profile.jpg"
                                              width="1902" height="896"/>
                                     </div>
@@ -175,7 +175,7 @@
             <span class="sr-only">Next</span>
         </a>
         <div class="scrollbutton hidden-print">
-            <a href="#afirst"><img src="fileadmin/templates/_media/scroll-button.png" width="69" height="69"></a>
+            <a href="#afirst"><img loading="lazy" src="fileadmin/templates/_media/scroll-button.png" width="69" height="69"></a>
             <div id="afirst"></div>
         </div>
     </div>
@@ -212,7 +212,7 @@
         <div class="row">
 
             <div class="col-md-12">
-                <img src="images/about-bg-mob.jpg" alt="apollo | about-bg-mob" title="apollo | about-bg-mob"
+                <img loading="lazy" src="images/about-bg-mob.jpg" alt="apollo | about-bg-mob" title="apollo | about-bg-mob"
                      class="img-responsive">
             </div>
 
@@ -253,7 +253,7 @@
             <div class="col-md-3 pad-5">
                 <div class="row">
                     <div class="col-md-12 pad-4 grauer-balken-1" style="padding-top:0;">
-                        <img src="fileadmin/templates/_media/application/quarries.jpg" alt="apollo | quarries"
+                        <img loading="lazy" src="fileadmin/templates/_media/application/quarries.jpg" alt="apollo | quarries"
                              title="apollo | quarries" class="img-responsive">
                         <div class="overlay overlayleft">
 
@@ -262,7 +262,7 @@
                     </div>
 
                     <div class="col-md-12 pad-4 grauer-balken-1" style="padding-bottom:0;">
-                        <img src="fileadmin/templates/_media/application/infrastructure.jpg"
+                        <img loading="lazy" src="fileadmin/templates/_media/application/infrastructure.jpg"
                              alt="apollo | infrastructure" title="apollo | infrastructure" class="img-responsive">
                         <div class="overlay overlayleft">
                             <div class="text">Construction</div>
@@ -274,7 +274,7 @@
             <div class="col-md-6 ">
                 <div class="row">
                     <div class="col-md-12 pad-4 grauer-balken-1" style="padding-top:0;padding-bottom:0;">
-                        <img src="fileadmin/templates/_media/application/mining.jpg" alt="apollo | mining"
+                        <img loading="lazy" src="fileadmin/templates/_media/application/mining.jpg" alt="apollo | mining"
                              title="apollo | mining" class="img-responsive cstm-width-img">
                         <div class="overlay overlayleft">
                             <div class="text">Mining</div>
@@ -286,7 +286,7 @@
             <div class="col-md-3 pad-5">
                 <div class="row">
                     <div class="col-md-12 pad-4 grauer-balken-1" style="padding-top:0;">
-                        <img src="fileadmin/templates/_media/application/Ashphalt-Recycling.jpg"
+                        <img loading="lazy" src="fileadmin/templates/_media/application/Ashphalt-Recycling.jpg"
                              alt="apollo | ashphalt recycling" title="apollo | ashphalt recycling"
                              class="img-responsive">
                         <div class="overlay overlayleft">
@@ -294,7 +294,7 @@
                         </div>
                     </div>
                     <div class="col-md-12 pad-4 grauer-balken-1" style="padding-bottom:0;">
-                        <img src="fileadmin/templates/_media/application/demolitions.jpg" alt="apollo | demolitions"
+                        <img loading="lazy" src="fileadmin/templates/_media/application/demolitions.jpg" alt="apollo | demolitions"
                              title="apollo | demolitions" class="img-responsive">
                         <div class="overlay overlayleft">
                             <div class="text">Demolitions</div>
@@ -335,7 +335,7 @@
                 </div>
             </div>
             <div class="col-md-8">
-                <img src="images/service-spares.png" alt="apollo | service-spares" title="apollo | service-spares"
+                <img loading="lazy" src="images/service-spares.png" alt="apollo | service-spares" title="apollo | service-spares"
                      class="img-responsive">
             </div>
         </div>
@@ -358,7 +358,7 @@
 
 
                 <a class="fancybox1" rel="ligthbox" href="" data-toggle="modal" data-target="#myModal100">
-                    <img class="img-responsive" alt="apollo | news event | ConMac Nepal 2018"
+                    <img loading="lazy" class="img-responsive" alt="apollo | news event | ConMac Nepal 2018"
                          title="apollo | news event | ConMac Nepal 2018"
                          src="images/news-event/excon-nepal-2018/ConMac-Nepal_2018.jpg"/>
 
@@ -380,7 +380,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/excon-nepal-2018/ConMac-Nepal_03.jpg">
-                                            <img class="img-responsive"
+                                            <img loading="lazy" class="img-responsive"
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/excon-nepal-2018/ConMac-Nepal_03.jpg"/>
@@ -390,7 +390,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/excon-nepal-2018/ConMac-Nepal_01.jpg">
-                                            <img class="img-responsive"
+                                            <img loading="lazy" class="img-responsive"
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/excon-nepal-2018/ConMac-Nepal_01.jpg"/>
@@ -400,7 +400,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/excon-nepal-2018/ConMac-Nepal_02.jpg">
-                                            <img class="img-responsive"
+                                            <img loading="lazy" class="img-responsive"
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/excon-nepal-2018/ConMac-Nepal_02.jpg"/>
@@ -431,7 +431,7 @@
 
 
                 <a class="fancybox1" rel="ligthbox" href="" data-toggle="modal" data-target="#myModal0">
-                    <img class="img-responsive" alt="apollo | news event | Excon Bangalore 2017"
+                    <img loading="lazy" class="img-responsive" alt="apollo | news event | Excon Bangalore 2017"
                          title="apollo | news event | Excon Bangalore 2017"
                          src="images/news-event/Excon-Bangalore-2017.jpg"/>
 
@@ -453,7 +453,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Excon-Bangalore-2017/1.jpg">
-                                            <img class="img-responsive"
+                                            <img loading="lazy" class="img-responsive"
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/Excon-Bangalore-2017/1.jpg"/>
@@ -463,7 +463,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Excon-Bangalore-2017/2.jpg">
-                                            <img class="img-responsive"
+                                            <img loading="lazy" class="img-responsive"
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/Excon-Bangalore-2017/2.jpg"/>
@@ -473,7 +473,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Excon-Bangalore-2017/3.jpg">
-                                            <img class="img-responsive"
+                                            <img loading="lazy" class="img-responsive"
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/Excon-Bangalore-2017/3.jpg"/>
@@ -483,7 +483,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Excon-Bangalore-2017/4.jpg">
-                                            <img class="img-responsive"
+                                            <img loading="lazy" class="img-responsive"
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/Excon-Bangalore-2017/4.jpg"/>
@@ -513,7 +513,7 @@
 
 
                 <a class="fancybox1" rel="ligthbox" href="" data-toggle="modal" data-target="#myModal">
-                    <img class="img-responsive" alt="apollo | news event | BorderRoadOrganization Pune 2017"
+                    <img loading="lazy" class="img-responsive" alt="apollo | news event | BorderRoadOrganization Pune 2017"
                          title="apollo | news event | BorderRoadOrganization Pune 2017"
                          src="images/news-event/BorderRoadOrganization_Pune_2017.jpg"/>
 
@@ -535,7 +535,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/BorderRoadOrganization_Pune_2017/Pune_BorderRoadOrganization_2017_1.jpg">
-                                            <img class="img-responsive"
+                                            <img loading="lazy" class="img-responsive"
                                                  alt="apollo | news event | Border Road Organization Pune 2017"
                                                  title="apollo | news event | Border Road Organization Pune 2017"
                                                  src="images/news-event/BorderRoadOrganization_Pune_2017/Pune_BorderRoadOrganization_2017_1.jpg"/>
@@ -545,7 +545,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/BorderRoadOrganization_Pune_2017/Pune_BorderRoadOrganization_2017_2.jpg">
-                                            <img class="img-responsive"
+                                            <img loading="lazy" class="img-responsive"
                                                  alt="apollo | news event | Border Road Organization Pune 2017"
                                                  title="apollo | news event | Border Road Organization Pune 2017"
                                                  src="images/news-event/BorderRoadOrganization_Pune_2017/Pune_BorderRoadOrganization_2017_2.jpg"/>
@@ -572,7 +572,7 @@
         <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
             <div class="box">
                 <a class=" fancybox1" rel="ligthbox" href="" data-toggle="modal" data-target="#myModal2">
-                    <img class="img-responsive" alt="apollo | news event | Astan Build 2016"
+                    <img loading="lazy" class="img-responsive" alt="apollo | news event | Astan Build 2016"
                          title="apollo | news event | Astan Build 2016"
                          src="images/news-event/Astan-Build-2016.jpg"/>
 
@@ -594,7 +594,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-4 col-lg-4'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Astan-Build-2016/astan-build-2016_1.jpg">
-                                            <img class="img-responsive" alt="apollo | news event | Astan Build 2016"
+                                            <img loading="lazy" class="img-responsive" alt="apollo | news event | Astan Build 2016"
                                                  title="apollo | news event | Astan Build 2016"
                                                  src="images/news-event/Astan-Build-2016/astan-build-2016_1.jpg"/>
 
@@ -604,7 +604,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-4 col-lg-4'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Astan-Build-2016/astan-build-2016_3.jpg">
-                                            <img class="img-responsive" alt="apollo | news event | Astan Build 2016"
+                                            <img loading="lazy" class="img-responsive" alt="apollo | news event | Astan Build 2016"
                                                  title="apollo | news event | Astan Build 2016"
                                                  src="images/news-event/Astan-Build-2016/astan-build-2016_3.jpg"/>
 
@@ -613,7 +613,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-4 col-lg-4'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Astan-Build-2016/astan-build-2016_4.jpg">
-                                            <img class="img-responsive" alt="apollo | news event | Astan Build 2016"
+                                            <img loading="lazy" class="img-responsive" alt="apollo | news event | Astan Build 2016"
                                                  title="apollo | news event | Astan Build 2016"
                                                  src="images/news-event/Astan-Build-2016/astan-build-2016_4.jpg"/>
 
@@ -622,7 +622,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-4 col-lg-4'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Astan-Build-2016/astan-build-2016_5.jpg">
-                                            <img class="img-responsive" alt="apollo | news event | Astan Build 2016"
+                                            <img loading="lazy" class="img-responsive" alt="apollo | news event | Astan Build 2016"
                                                  title="apollo | news event | Astan Build 2016"
                                                  src="images/news-event/Astan-Build-2016/astan-build-2016_5.jpg"/>
 
@@ -631,7 +631,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-4 col-lg-4'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Astan-Build-2016/astan-build-2016_6.jpg">
-                                            <img class="img-responsive" alt="apollo | news event | Astan Build 2016"
+                                            <img loading="lazy" class="img-responsive" alt="apollo | news event | Astan Build 2016"
                                                  title="apollo | news event | Astan Build 2016"
                                                  src="images/news-event/Astan-Build-2016/astan-build-2016_6.jpg"/>
 
@@ -655,7 +655,7 @@
         <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
             <div class="box">
                 <a class=" fancybox1" rel="ligthbox" href="" data-toggle="modal" data-target="#myModal3">
-                    <img class="img-responsive" alt="apollo | news event | Big 5 Saudi Jeddah 2016"
+                    <img loading="lazy" class="img-responsive" alt="apollo | news event | Big 5 Saudi Jeddah 2016"
                          title="apollo | news event | Big 5 Saudi Jeddah 2016"
                          src="images/news-event/Big-5-Saudi-Jeddah-2016.jpg"/>
 
@@ -678,7 +678,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Big-5-Saudi-Jeddah-2016/Big5-Saudi_Jeddah_2016_1.jpg">
-                                            <img class="img-responsive"
+                                            <img loading="lazy" class="img-responsive"
                                                  alt="apollo | news event | Big 5 Saudi Jeddah 2016"
                                                  title="apollo | news event | Big 5 Saudi Jeddah 2016"
                                                  src="images/news-event/Big-5-Saudi-Jeddah-2016/Big5-Saudi_Jeddah_2016_1.jpg"/>
@@ -688,7 +688,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Big-5-Saudi-Jeddah-2016/Big5-Saudi_Jeddah_2016_2.jpg">
-                                            <img class="img-responsive"
+                                            <img loading="lazy" class="img-responsive"
                                                  alt="apollo | news event | Big 5 Saudi Jeddah 2016"
                                                  title="apollo | news event | Big 5 Saudi Jeddah 2016"
                                                  src="images/news-event/Big-5-Saudi-Jeddah-2016/Big5-Saudi_Jeddah_2016_2.jpg"/>
@@ -698,7 +698,7 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Big-5-Saudi-Jeddah-2016/Big5-Saudi_Jeddah_2016_3.jpg">
-                                            <img class="img-responsive"
+                                            <img loading="lazy" class="img-responsive"
                                                  alt="apollo | news event | Big 5 Saudi Jeddah 2016"
                                                  title="apollo | news event | Big 5 Saudi Jeddah 2016"
                                                  src="images/news-event/Big-5-Saudi-Jeddah-2016/Big5-Saudi_Jeddah_2016_3.jpg"/>
