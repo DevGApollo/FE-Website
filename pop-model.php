@@ -42,9 +42,8 @@
 
 
                         <div class="widget footer-widgets tag-widget">
-<!--                            <input style="display: none" id="inquiery-model" value="--><?php //= $_COOKIE['inquierymodel']; ?><!--"-->
-<!--                                   type="hidden"/>-->
-<!--                            <input style="display: none" id="isloadopenmodel" value="--><?php //= $_COOKIE['isloadopenmodel']; ?><!--" type="hidden"/>-->
+                           <input style="display: none" id="inquiery-model" value="<?php $_COOKIE['inquierymodel']; ?>"type="hidden"/>
+                           <input style="display: none" id="isloadopenmodel" value="<?php $_COOKIE['isloadopenmodel']; ?>" type="hidden"/>
 
                             <input style="display: none" name="junk_trap" class="junk_trap" type="hidden"/>
 
