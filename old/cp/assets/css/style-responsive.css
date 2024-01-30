@@ -226,6 +226,10 @@
         width: 100%;
     }
 
+    .img-contains{
+        object-fit: contain;
+    }
+
 }
 
 
