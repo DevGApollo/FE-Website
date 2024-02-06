@@ -1,4 +1,0 @@
-[PHP]
-open_basedir="D:/INETPUB/VHOSTS/apollo.co.in\;C:\Windows\Temp\"
-error_reporting=22519
-error_log="D:\INETPUB\VHOSTS\apollo.co.in\logs\php_errors\apollo.co.in\php_error.log"
