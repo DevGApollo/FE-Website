@@ -1,1 +1,0 @@
-!function(t){t(function(){t(document).off("click.bs.tab.data-api",'[data-hover="tab"]'),t(document).on("mouseenter.bs.tab.data-api",'[data-toggle="tab"], [data-hover="tab"]',function(){t(this).tab("show")})})}(jQuery);
