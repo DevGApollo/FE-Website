@@ -9,7 +9,8 @@
             <div class="col-md-8 col-sm-12 co-xs-12 gal-item gal-item-cstm">
                 <div class="box">
                     <a class="fancybox1" rel="ligthbox" href="" data-toggle="modal" data-target="#myModal100">
-                        <img loading="lazy" class="img-responsive" alt="apollo | news event | ConMac Nepal 2018"
+                        <img style="object-fit: contain" loading="lazy" class="img-responsive"
+                                                 alt="apollo | news event | ConMac Nepal 2018"
                              title="apollo | news event | ConMac Nepal 2018"
                              src="images/news-event/excon-nepal-2018/ConMac-Nepal_2018.jpg"/>
                     </a>
@@ -27,8 +28,8 @@
                                         <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                             <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                                href="images/news-event/excon-nepal-2018/ConMac-Nepal_03.jpg">
-                                                <img loading="lazy" class="img-responsive"
-                                                     alt="apollo | news event | Excon Bangalore 2017"
+                                                <img style="object-fit: contain" loading="lazy" class="img-responsive"
+                                                 alt="apollo | news event | Excon Bangalore 2017"
                                                      title="apollo | news event | Excon Bangalore 2017"
                                                      src="images/news-event/excon-nepal-2018/ConMac-Nepal_03.jpg"/>
                                             </a>
@@ -37,8 +38,8 @@
                                         <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                             <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                                href="images/news-event/excon-nepal-2018/ConMac-Nepal_01.jpg">
-                                                <img loading="lazy" class="img-responsive"
-                                                     alt="apollo | news event | Excon Bangalore 2017"
+                                                <img style="object-fit: contain" loading="lazy" class="img-responsive"
+                                                 alt="apollo | news event | Excon Bangalore 2017"
                                                      title="apollo | news event | Excon Bangalore 2017"
                                                      src="images/news-event/excon-nepal-2018/ConMac-Nepal_01.jpg"/>
                                             </a>
@@ -47,8 +48,8 @@
                                         <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                             <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                                href="images/news-event/excon-nepal-2018/ConMac-Nepal_02.jpg">
-                                                <img loading="lazy" class="img-responsive"
-                                                     alt="apollo | news event | Excon Bangalore 2017"
+                                                <img style="object-fit: contain" loading="lazy" class="img-responsive"
+                                                 alt="apollo | news event | Excon Bangalore 2017"
                                                      title="apollo | news event | Excon Bangalore 2017"
                                                      src="images/news-event/excon-nepal-2018/ConMac-Nepal_02.jpg"/>
                                             </a>
