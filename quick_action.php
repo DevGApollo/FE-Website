@@ -15,11 +15,6 @@ $department = htmlspecialchars(stripslashes(trim($_POST['department'])));
 $date_time = date("Y-m-d h:i:s");
 $mobile_number = $code . '-' . $phone;
 
-require __DIR__ . '/vendor/autoload.php';
-
-// Now you can use Resend's classes
-use Resend\Resend; // example usage
-
 if (isset($fname) && trim($fname) !== '' && isset($email) && trim($email) !== '' && isset($message) && trim($message) !== '' && isset($phone) && trim($phone) !== '' && isset($country) && trim($country) !== '') {
 
     if ($_SESSION["code"] == $_POST['captcha']) {
