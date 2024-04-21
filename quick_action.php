@@ -131,27 +131,12 @@ if (isset($fname) && trim($fname) !== '' && isset($email) && trim($email) !== ''
 
                     $resend = Resend::client('re_awQ3YTAE_8sZwNMMVR4YzwTbd5FUr1fvS');
 
-                    $resend->batch->send([[
+                    $resend->emails->send([
                         'from' => 'onboarding@resend.dev',
-                        'to' => ['it_dev@gapollo.net'],
+                        'to' => 'it_dev@gapollo.net',
+                        'cc' => ['info@apollo.co.in','arjun_patel@gapollo.net','dcbrainsinquiry@gmail.com','info@apollo.co.in'],
                         'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
                         'html' => $message_body
-                   ]/*,[
-//                        'from' => 'onboarding@resend.dev',
-//                        'to' => ['info@apollo.co.in'],
-//                        'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
-//                        'html' => $message_body
-//                    ],[
-//                        'from' => 'onboarding@resend.dev',
-//                        'to' => ['arjun_patel@gapollo.net'],
-//                        'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
-//                        'html' => $message_body
-//                    ],[
-//                        'from' => 'onboarding@resend.dev',
-//                        'to' => ['dcbrainsinquiry@gmail.com'],
-//                        'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
-//                        'html' => $message_body
-/*                    ]*/
                     ]);
 
 
