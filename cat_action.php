@@ -107,22 +107,31 @@ if ($fname !== "" && $email !== "" && $phone !== "") {
                     $mail->IsSMTP(); // telling the class to use SMTP
 
                     try {
-                        $mail->Host = "in-v3.mailjet.com"; // SMTP server
-                        $mail->SMTPDebug = 2;                     // enables SMTP debug information (for testing)
-                        $mail->AddAddress('info@apollo.co.in', 'New Enquiry for Catalogue From Gujarat Apollo Corporate Website');
-                        $mail->SetFrom('support@apollo.co.in', 'New Enquiry for Catalogue From Gujarat Apollo Corporate Website');
-                        $mail->AddCC('arjun_patel@gapollo.net', 'New Enquiry for Catalogue From Gujarat Apollo Corporate Website');
-                        //$mail->AddBCC('brijesh_bhavsar@gapollo.net', 'New Enquiry for Catalogue From Gujarat Apollo Corporate Website');
-                        $mail->AddBCC('dcbrainsinquiry@gmail.com', 'New Enquiry for Catalogue From Gujarat Apollo Corporate Website');
+//                        $mail->Host = "in-v3.mailjet.com"; // SMTP server
+//                        $mail->SMTPDebug = 2;                     // enables SMTP debug information (for testing)
+//                        $mail->AddAddress('info@apollo.co.in', 'New Enquiry for Catalogue From Gujarat Apollo Corporate Website');
+//                        $mail->SetFrom('support@apollo.co.in', 'New Enquiry for Catalogue From Gujarat Apollo Corporate Website');
+//                        $mail->AddCC('arjun_patel@gapollo.net', 'New Enquiry for Catalogue From Gujarat Apollo Corporate Website');
+//                        //$mail->AddBCC('brijesh_bhavsar@gapollo.net', 'New Enquiry for Catalogue From Gujarat Apollo Corporate Website');
+//                        $mail->AddBCC('dcbrainsinquiry@gmail.com', 'New Enquiry for Catalogue From Gujarat Apollo Corporate Website');
+//
+//                        $mail->Subject = 'New Enquiry for Catalogue From Gujarat Apollo Corporate Website';
+//                        $mail->SMTPAuth = true;
+//                        $mail->Username = "4b966b3cfa2b56e1c970a218ab233f7d";
+//                        $mail->Password = "a9f54409f44d3e04eeea594f219dfd2a";
+//                        $mail->MsgHTML($message_body);
+//                        // $mail->AddAttachment('images/phpmailer.gif');      // attachment
+//                        // $mail->AddAttachment('images/phpmailer_mini.gif'); // attachment
+//                        $mail->Send();
 
-                        $mail->Subject = 'New Enquiry for Catalogue From Gujarat Apollo Corporate Website';
-                        $mail->SMTPAuth = true;
-                        $mail->Username = "4b966b3cfa2b56e1c970a218ab233f7d";
-                        $mail->Password = "a9f54409f44d3e04eeea594f219dfd2a";
-                        $mail->MsgHTML($message_body);
-                        // $mail->AddAttachment('images/phpmailer.gif');      // attachment
-                        // $mail->AddAttachment('images/phpmailer_mini.gif'); // attachment
-                        $mail->Send();
+                        $resend = Resend::client('re_awQ3YTAE_8sZwNMMVR4YzwTbd5FUr1fvS');
+
+                        $resend->emails->send([
+                            'from' => 'onboarding@resend.dev',
+                            'to' => 'it_dev@gapollo.net',
+                            'subject' => 'New Enquiry for Catalogue From Gujarat Apollo Corporate Website',
+                            'html' => '$message_body'
+                        ]);
                         header("location:thankyou-catalogue.php?varname=$path1[1]");
                         //echo "Message Sent OK<p></p>\n";
                     } catch (phpmailerException $e) {
