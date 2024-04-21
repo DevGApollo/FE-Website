@@ -136,22 +136,23 @@ if (isset($fname) && trim($fname) !== '' && isset($email) && trim($email) !== ''
                         'to' => ['it_dev@gapollo.net'],
                         'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
                         'html' => $message_body
-                    ],[
-                        'from' => 'onboarding@resend.dev',
-                        'to' => ['info@apollo.co.in'],
-                        'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
-                        'html' => $message_body
-                    ],[
-                        'from' => 'onboarding@resend.dev',
-                        'to' => ['arjun_patel@gapollo.net'],
-                        'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
-                        'html' => $message_body
-                    ],[
-                        'from' => 'onboarding@resend.dev',
-                        'to' => ['dcbrainsinquiry@gmail.com'],
-                        'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
-                        'html' => $message_body
-                    ]]);
+                   ]/*,[
+//                        'from' => 'onboarding@resend.dev',
+//                        'to' => ['info@apollo.co.in'],
+//                        'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
+//                        'html' => $message_body
+//                    ],[
+//                        'from' => 'onboarding@resend.dev',
+//                        'to' => ['arjun_patel@gapollo.net'],
+//                        'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
+//                        'html' => $message_body
+//                    ],[
+//                        'from' => 'onboarding@resend.dev',
+//                        'to' => ['dcbrainsinquiry@gmail.com'],
+//                        'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
+//                        'html' => $message_body
+/*                    ]*/
+                    ]);
 
 
                     ?>
