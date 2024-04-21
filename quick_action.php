@@ -15,6 +15,8 @@ $department = htmlspecialchars(stripslashes(trim($_POST['department'])));
 $date_time = date("Y-m-d h:i:s");
 $mobile_number = $code . '-' . $phone;
 
+require_once "resend-php-0.12.0/src/Resend.php";
+
 
 if (isset($fname) && trim($fname) !== '' && isset($email) && trim($email) !== '' && isset($message) && trim($message) !== '' && isset($phone) && trim($phone) !== '' && isset($country) && trim($country) !== '') {
 
