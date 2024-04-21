@@ -131,7 +131,7 @@ if (isset($fname) && trim($fname) !== '' && isset($email) && trim($email) !== ''
 
                     $resend = Resend::client('re_awQ3YTAE_8sZwNMMVR4YzwTbd5FUr1fvS');
 
-                    $resend->batch->send([
+                    $resend->batch->send([[
                         'from' => 'onboarding@resend.dev',
                         'to' => ['it_dev@gapollo.net'],
                         'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
@@ -151,7 +151,7 @@ if (isset($fname) && trim($fname) !== '' && isset($email) && trim($email) !== ''
                         'to' => ['dcbrainsinquiry@gmail.com'],
                         'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
                         'html' => $message_body
-                    ]);
+                    ]]);
 
 
                     ?>
