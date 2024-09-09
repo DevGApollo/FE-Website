@@ -358,7 +358,11 @@
 
 
                 <a class="fancybox1" rel="ligthbox" href="" data-toggle="modal" data-target="#myModal100">
+<<<<<<< HEAD
                     <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain" alt="apollo | news event | ConMac Nepal 2018"
+=======
+                    <img style="object-fit: contain" loading="lazy" class="img-responsive" alt="apollo | news event | ConMac Nepal 2018"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                          title="apollo | news event | ConMac Nepal 2018"
                          src="images/news-event/excon-nepal-2018/ConMac-Nepal_2018.jpg"/>
 
@@ -380,7 +384,11 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/excon-nepal-2018/ConMac-Nepal_03.jpg">
+<<<<<<< HEAD
                                             <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain"
+=======
+                                            <img style="object-fit: contain" loading="lazy" class="img-responsive"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/excon-nepal-2018/ConMac-Nepal_03.jpg"/>
@@ -390,7 +398,11 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/excon-nepal-2018/ConMac-Nepal_01.jpg">
+<<<<<<< HEAD
                                             <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain"
+=======
+                                            <img style="object-fit: contain" loading="lazy" class="img-responsive"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/excon-nepal-2018/ConMac-Nepal_01.jpg"/>
@@ -400,7 +412,11 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/excon-nepal-2018/ConMac-Nepal_02.jpg">
+<<<<<<< HEAD
                                             <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain"
+=======
+                                            <img style="object-fit: contain" loading="lazy" class="img-responsive"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/excon-nepal-2018/ConMac-Nepal_02.jpg"/>
@@ -431,7 +447,12 @@
 
 
                 <a class="fancybox1" rel="ligthbox" href="" data-toggle="modal" data-target="#myModal0">
+<<<<<<< HEAD
                     <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain" alt="apollo | news event | Excon Bangalore 2017"
+=======
+                    <img style="object-fit: contain" loading="lazy" class="img-responsive" alt="apollo | news event | Excon Bangalore
+                    2017"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                          title="apollo | news event | Excon Bangalore 2017"
                          src="images/news-event/Excon-Bangalore-2017.jpg"/>
 
@@ -453,7 +474,11 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Excon-Bangalore-2017/1.jpg">
+<<<<<<< HEAD
                                             <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain"
+=======
+                                            <img style="object-fit: contain" loading="lazy" class="img-responsive"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/Excon-Bangalore-2017/1.jpg"/>
@@ -463,7 +488,11 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Excon-Bangalore-2017/2.jpg">
+<<<<<<< HEAD
                                             <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain"
+=======
+                                            <img style="object-fit: contain" loading="lazy" class="img-responsive"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/Excon-Bangalore-2017/2.jpg"/>
@@ -473,7 +502,11 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Excon-Bangalore-2017/3.jpg">
+<<<<<<< HEAD
                                             <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain"
+=======
+                                            <img style="object-fit: contain" loading="lazy" class="img-responsive"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/Excon-Bangalore-2017/3.jpg"/>
@@ -483,7 +516,11 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Excon-Bangalore-2017/4.jpg">
+<<<<<<< HEAD
                                             <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain"
+=======
+                                            <img style="object-fit: contain" loading="lazy" class="img-responsive"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                                                  alt="apollo | news event | Excon Bangalore 2017"
                                                  title="apollo | news event | Excon Bangalore 2017"
                                                  src="images/news-event/Excon-Bangalore-2017/4.jpg"/>
@@ -513,7 +550,13 @@
 
 
                 <a class="fancybox1" rel="ligthbox" href="" data-toggle="modal" data-target="#myModal">
+<<<<<<< HEAD
                     <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain" alt="apollo | news event | BorderRoadOrganization Pune 2017"
+=======
+                    <img style="object-fit: contain" loading="lazy" class="img-responsive" alt="apollo | news event |
+                    BorderRoadOrganization
+                    Pune 2017"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                          title="apollo | news event | BorderRoadOrganization Pune 2017"
                          src="images/news-event/BorderRoadOrganization_Pune_2017.jpg"/>
 
@@ -535,7 +578,11 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/BorderRoadOrganization_Pune_2017/Pune_BorderRoadOrganization_2017_1.jpg">
+<<<<<<< HEAD
                                             <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain"
+=======
+                                            <img style="object-fit: contain" loading="lazy" class="img-responsive"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                                                  alt="apollo | news event | Border Road Organization Pune 2017"
                                                  title="apollo | news event | Border Road Organization Pune 2017"
                                                  src="images/news-event/BorderRoadOrganization_Pune_2017/Pune_BorderRoadOrganization_2017_1.jpg"/>
@@ -545,7 +592,11 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/BorderRoadOrganization_Pune_2017/Pune_BorderRoadOrganization_2017_2.jpg">
+<<<<<<< HEAD
                                             <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain"
+=======
+                                            <img style="object-fit: contain" loading="lazy" class="img-responsive"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                                                  alt="apollo | news event | Border Road Organization Pune 2017"
                                                  title="apollo | news event | Border Road Organization Pune 2017"
                                                  src="images/news-event/BorderRoadOrganization_Pune_2017/Pune_BorderRoadOrganization_2017_2.jpg"/>
@@ -572,7 +623,11 @@
         <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
             <div class="box">
                 <a class=" fancybox1" rel="ligthbox" href="" data-toggle="modal" data-target="#myModal2">
+<<<<<<< HEAD
                     <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain" alt="apollo | news event | Astan Build 2016"
+=======
+                    <img style="object-fit: contain" loading="lazy" class="img-responsive" alt="apollo | news event | Astan Build 2016"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                          title="apollo | news event | Astan Build 2016"
                          src="images/news-event/Astan-Build-2016.jpg"/>
 
@@ -655,7 +710,13 @@
         <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
             <div class="box">
                 <a class=" fancybox1" rel="ligthbox" href="" data-toggle="modal" data-target="#myModal3">
+<<<<<<< HEAD
                     <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain" alt="apollo | news event | Big 5 Saudi Jeddah 2016"
+=======
+                    <img style="object-fit: contain" loading="lazy" class="img-responsive" alt="apollo | news event | Big 5
+                     Saudi
+                    Jeddah 2016"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                          title="apollo | news event | Big 5 Saudi Jeddah 2016"
                          src="images/news-event/Big-5-Saudi-Jeddah-2016.jpg"/>
 
@@ -678,7 +739,11 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Big-5-Saudi-Jeddah-2016/Big5-Saudi_Jeddah_2016_1.jpg">
+<<<<<<< HEAD
                                             <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain"
+=======
+                                            <img style="object-fit: contain" loading="lazy" class="img-responsive"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                                                  alt="apollo | news event | Big 5 Saudi Jeddah 2016"
                                                  title="apollo | news event | Big 5 Saudi Jeddah 2016"
                                                  src="images/news-event/Big-5-Saudi-Jeddah-2016/Big5-Saudi_Jeddah_2016_1.jpg"/>
@@ -688,7 +753,11 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Big-5-Saudi-Jeddah-2016/Big5-Saudi_Jeddah_2016_2.jpg">
+<<<<<<< HEAD
                                             <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain"
+=======
+                                            <img style="object-fit: contain" loading="lazy" class="img-responsive"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                                                  alt="apollo | news event | Big 5 Saudi Jeddah 2016"
                                                  title="apollo | news event | Big 5 Saudi Jeddah 2016"
                                                  src="images/news-event/Big-5-Saudi-Jeddah-2016/Big5-Saudi_Jeddah_2016_2.jpg"/>
@@ -698,7 +767,11 @@
                                     <div class='col-sm-12 col-xs-12 col-md-6 col-lg-6'>
                                         <a class="fancybox" data-fancybox="group" rel="ligthbox"
                                            href="images/news-event/Big-5-Saudi-Jeddah-2016/Big5-Saudi_Jeddah_2016_3.jpg">
+<<<<<<< HEAD
                                             <img loading="lazy" class="img-responsive img-contains" style="object-fit: contain"
+=======
+                                            <img style="object-fit: contain" loading="lazy" class="img-responsive"
+>>>>>>> 437124311f1dfb12a97ff3d25418fff69587810c
                                                  alt="apollo | news event | Big 5 Saudi Jeddah 2016"
                                                  title="apollo | news event | Big 5 Saudi Jeddah 2016"
                                                  src="images/news-event/Big-5-Saudi-Jeddah-2016/Big5-Saudi_Jeddah_2016_3.jpg"/>

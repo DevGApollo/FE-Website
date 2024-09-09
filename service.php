@@ -44,10 +44,10 @@
                             <div class="text-left cstm-a mob-inq-resp service-mob-button">
                                 <a href="javascript:;" class=" btn-cstm click1 text-center cstm-margin-top-0">
                                     <i class="fa fa-share-square" aria-hidden="true"></i>&nbsp;
-                                    Service Inquiry</a>
-                                <a href="#" class=" dwnld-pdf click2 btn-cstm  text-center cstm-margin-top-0"
-                                ><i class="fa fa-file-pdf-o"
-                                    aria-hidden="true"></i>&nbsp; Spares Inquiry</a>
+                                    Service & Spares Inquiry</a>
+<!--                                <a href="#" class=" dwnld-pdf click2 btn-cstm  text-center cstm-margin-top-0"-->
+<!--                                ><i class="fa fa-file-pdf-o"-->
+<!--                                    aria-hidden="true"></i>&nbsp; Spares Inquiry</a>-->
                             </div>
                         </div>
 

@@ -385,10 +385,10 @@
                                        onclick="gtag('event', 'send', {'event_category': 'click on email', 'event_action': 'mailto', 'event_label': 'info@apollo.co.in' });"
                                        class="external-link-new-window" style="text-transform: lowercase;"><img loading="lazy"
                                                 src="fileadmin/templates/_media/mail.png" alt="" width="18" height="18">info@apollo.co.in</a>
-                                    <a href="tel:917926444597"
-                                       onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '917926444597' });"><img loading="lazy"
+                                    <a href="tel:9172280118111"
+                                       onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '9172280118111' });"><img loading="lazy"
                                                 src="fileadmin/templates/_media/phone.png" alt="" width="18"
-                                                height="18">+91 7926444597/98</a>
+                                                height="18">+91 72280118111 /12 /13 /14 /15</a>
                                 </p>
                             </div>
                         </div>
@@ -1083,3 +1083,5 @@
     </div>
 </div>
 <div class="navi-box"></div>
+
+</body>

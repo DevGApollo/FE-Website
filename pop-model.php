@@ -32,9 +32,9 @@
                             <button class="btn-modal-gra">
                                 <a class="content-p" href="mailto:info@apollo.co.in"
                                    onclick="gtag('event', 'send', { 'event_category': 'click on mail', 'event_action': 'mailto', 'event_label': 'info@apollo.co.in' });">info@apollo.co.in</a>
-                                <br> <a class="content-p" href="tel:+917926444597"
-                                        onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '+917926444597' });">+91
-                                    79-26444597</a>
+                                <br> <a class="content-p" href="tel:+9172280118111"
+                                        onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '+9172280118111' });">+91
+                                    72280118111 /12/13/14/15</a>
                             </button>
                         </div>
                     </div>
@@ -185,9 +185,9 @@
                             <button class="btn-modal-gra">
                                 <a class="content-p" href="mailto:info@apollo.co.in"
                                    onclick="gtag('event', 'send', { 'event_category': 'click on mail', 'event_action': 'mailto', 'event_label': 'info@apollo.co.in' });">info@apollo.co.in</a>
-                                <br> <a class="content-p" href="tel:+917926444597"
-                                        onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '+917926444597' });">+91
-                                    79-26444597</a>
+                                <br> <a class="content-p" href="tel:+9172280118111"
+                                        onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '+9172280118111' });">+91
+                                    72280118111/12/13/14/15</a>
                             </button>
                         </div>
                     </div>
