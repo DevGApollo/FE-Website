@@ -72,9 +72,9 @@ button.btn.btn-primary.center-block.buttonwidth:hover {
                             <div class="col-sm-3 col-xs-12 col-md-3 col-lg-3">
                                 <a class="fancybox" data-fancybox="group" rel="ligthbox" alt="apollo | invester zone"
                                     title="apollo | invester zone"
-                                    href="images/invester-zone/EGMNoticeIPA29082024.png">
+                                    href="images/invester-zone/GAILAnnualReport20232024.png">
                                     <img loading="lazy" class="img-responsive" alt=""
-                                        src="images/invester-zone/EGMNoticeIPA29082024.png"
+                                        src="images/invester-zone/GAILAnnualReport20232024.png"
                                         alt="apollo | invester zone" title="apollo | EGMNoticeIPA29082024" />
                                     <a href="PDF/EGMNoticeIPA29082024.pdf" target="_blank" class="">
                                         <button type="button" class="btn btn-primary center-block buttonwidth">Download
