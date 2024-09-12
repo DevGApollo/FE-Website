@@ -75,7 +75,7 @@ button.btn.btn-primary.center-block.buttonwidth:hover {
                                     href="images/invester-zone/latest-reports/EGMNoticeIPA29082024.png">
                                     <img loading="lazy" class="img-responsive" alt=""
                                         src="images/invester-zone/latest-reports/EGMNoticeIPA29082024.png"
-                                        alt="apollo | invester zone" title="apollo | invester zone" />
+                                        alt="apollo | invester zone" title="apollo | EGMNoticeIPA29082024" />
                                     <a href="PDF/EGMNoticeIPA29082024.pdf" target="_blank" class="">
                                         <button type="button" class="btn btn-primary center-block buttonwidth">Download
                                         </button>
@@ -88,7 +88,7 @@ button.btn.btn-primary.center-block.buttonwidth:hover {
                                     href="images/invester-zone/latest-reports/OutcomeOfBoradMeeting28082024.png">
                                     <img loading="lazy" class="img-responsive" alt=""
                                         src="images/invester-zone/latest-reports/OutcomeOfBoradMeeting28082024.png"
-                                        alt="apollo | invester zone" title="apollo | invester zone" />
+                                        alt="apollo | invester zone" title="apollo | OutcomeOfBoradMeeting28082024" />
                                     <a href="PDF/OutcomeOfBoradMeeting28082024.pdf" target="_blank" class="">
                                         <button type="button" class="btn btn-primary center-block buttonwidth">Download
                                         </button>
