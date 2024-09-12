@@ -104,7 +104,7 @@ button.btn.btn-primary.center-block.buttonwidth:hover {
                                         src="images/invester-zone/latest-reports/OutcomeOfBoradMeeting28082024.png"
                                         alt="apollo | invester zone" title="apollo | OutcomeOfBoradMeeting28082024" />
                                     <a href="PDF/OutcomeOfBoradMeeting28082024.pdf" target="_blank" class="">
-                                        <button type="button" class="btn btn-primary center-block buttonwidth">Download
+                                        <button type="button" class="btn btn-primary center-block buttonwidth">Download1
                                         </button>
                                     </a>
                                 </a>
