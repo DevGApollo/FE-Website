@@ -78,7 +78,7 @@ button.btn.btn-primary.center-block.buttonwidth:hover {
                                         src="images/invester-zone/GAILAnnualReport20232024.png"
                                         alt="apollo | invester zone" title="apollo | EGMNoticeIPA29082024" />
                                     <a href="PDF/EGMNoticeIPA29082024.pdf" target="_blank" class="">
-                                        <button type="button" class="btn btn-primary center-block buttonwidth">Download
+                                        <button type="button" class="btn btn-primary center-block buttonwidth">Download EGM NOTICE
                                         </button>
                                     </a>
                                 </a>
