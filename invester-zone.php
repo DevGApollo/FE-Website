@@ -72,13 +72,12 @@ button.btn.btn-primary.center-block.buttonwidth:hover {
                             </div>
                             <div class="col-sm-3 col-xs-12 col-md-3 col-lg-3">
                                 <a class="fancybox" data-fancybox="group" rel="ligthbox" alt="apollo | invester zone"
-                                    title="apollo | invester zone"
-                                    href="images/invester-zone/EGMNoticeIPA29082024.jpg">
+                                    title="apollo | invester zone" href="images/invester-zone/EGMNoticeIPA29082024.jpg">
                                     <img loading="lazy" class="img-responsive" alt=""
-                                        src="images/invester-zone/EGMNoticeIPA29082024.jpg"
-                                        alt="apollo | invester zone" title="apollo | EGMNoticeIPA29082024" />
+                                        src="images/invester-zone/EGMNoticeIPA29082024.jpg" alt="apollo | invester zone"
+                                        title="apollo | EGMNoticeIPA29082024" />
                                     <a href="PDF/EGMNoticeIPA29082024.pdf" target="_blank" class="">
-                                        <button type="button" class="btn btn-primary center-block buttonwidth">Download EGM NOTICE
+                                        <button type="button" class="btn btn-primary center-block buttonwidth">Download
                                         </button>
                                     </a>
                                 </a>
@@ -91,7 +90,7 @@ button.btn.btn-primary.center-block.buttonwidth:hover {
                                         src="images/invester-zone/latest-reports/OutcomeOfBoradMeeting28082024.png"
                                         alt="apollo | invester zone" title="apollo | OutcomeOfBoradMeeting28082024" />
                                     <a href="PDF/OutcomeOfBoradMeeting28082024.pdf" target="_blank" class="">
-                                        <button type="button" class="btn btn-primary center-block buttonwidth">Download1
+                                        <button type="button" class="btn btn-primary center-block buttonwidth">Download
                                         </button>
                                     </a>
                                 </a>
