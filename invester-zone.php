@@ -49,15 +49,14 @@ button.btn.btn-primary.center-block.buttonwidth:hover {
                                     <img loading="lazy" class="img-responsive" alt=""
                                         src="images/OutcomeOfEGM21092024.png" alt="apollo | invester zone"
                                         title="apollo | invester zone" />
-                                    <a href="PDF/OutcomeofEGM21092024.pdf" target="_blank" class="">
+                                    <a href="PDF/GAILEGMVotingResults24092024C.pdf" target="_blank" class="">
                                         <button type="button" class="btn btn-primary center-block buttonwidth">Download
                                         </button>
                                     </a>
                                 </a>
                             </div>
                         </div>
-                    </div>
-                    <div class="list-group gallery">
+                        <div class="list-group gallery">
                             <!-- ================================= -->
                             <div class="col-sm-3 col-xs-12 col-md-3 col-lg-3">
                                 <a class="fancybox" data-fancybox="group" rel="ligthbox" alt="apollo | invester zone"
@@ -65,13 +64,28 @@ button.btn.btn-primary.center-block.buttonwidth:hover {
                                     <img loading="lazy" class="img-responsive" alt=""
                                         src="images/OutcomeOfEGM21092024.png" alt="apollo | invester zone"
                                         title="apollo | invester zone" />
-                                    <a href="https://sites.google.com/a/gapollo.net/co-ordinator?usp=sharing" target="_blank" class="">
-                                        <button type="button" class="btn btn-primary center-block buttonwidth">DOC WALLET
+                                    <a href="PDF/OutcomeofEGM21092024.pdf" target="_blank" class="">
+                                        <button type="button" class="btn btn-primary center-block buttonwidth">Download
                                         </button>
                                     </a>
                                 </a>
                             </div>
                         </div>
+                        <div class="list-group gallery">
+                            <div class="col-sm-3 col-xs-12 col-md-3 col-lg-3">
+                                <a class="fancybox" data-fancybox="group" rel="ligthbox" alt="apollo | invester zone"
+                                    title="apollo | invester zone" href="images/OutcomeOfEGM21092024.png">
+                                    <img loading="lazy" class="img-responsive" alt=""
+                                        src="images/OutcomeOfEGM21092024.png" alt="apollo | invester zone"
+                                        title="apollo | invester zone" />
+                                    <a href="https://sites.google.com/a/gapollo.net/co-ordinator?usp=sharing" target="_blank" class="">
+                                        <button type="button" class="btn btn-primary center-block buttonwidth">Download
+                                        </button>
+                                    </a>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="list-group gallery">
                             <!-- ================================= -->
