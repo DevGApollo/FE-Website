@@ -49,7 +49,7 @@ button.btn.btn-primary.center-block.buttonwidth:hover {
                                         src="images/OutcomeOfEGM21092024.png" alt="apollo | invester zone"
                                         title="apollo | invester zone" />
                                         <a href="https://sites.google.com/a/gapollo.net/co-ordinator?usp=sharing" target="_blank" class="">
-                                        <button type="button" class="btn btn-primary center-block buttonwidth">Investor Site
+                                        <button type="button" class="btn btn-primary center-block buttonwidth">Investor Reports
                                         </button>
                                     </a>
                                 </a>
