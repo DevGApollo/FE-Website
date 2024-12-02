@@ -41,9 +41,9 @@
                     5-B Rashmi Society, Mithakhali,
                     Navrangpura,Ahmedabad-380009,<br> Gujarat, India.
                 </div>
-                <div class="info phone-1"><img loading="lazy" src="images/phone.png" alt=""> <a href="tel:9172280118111"
-                                                                                 onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '9172280118111' });">+91
-                        72280118111 </a><span class="info phone-1" style="color: #fff;"> /12/13/14/15 </span>
+                <div class="info phone-1"><img loading="lazy" src="images/phone.png" alt=""> <a href="tel:917228011811"
+                                                                                 onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '917228011811' });">+91
+                        7228011811 </a><span class="info phone-1" style="color: #fff;"> /12/13/14/15 </span>
                 </div>
                 <div class="info fax-1"><img loading="lazy" src="images/fax.png" alt=""> <a href="">+91 79 - 26564705</a></div>
                 <div class="info email-1"><img loading="lazy" src="images/mail.png" alt=""> <a href="mailto:info@apollo.co.in"

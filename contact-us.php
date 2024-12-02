@@ -124,9 +124,9 @@
                                         </div>
                                         <div class="contact-row">
                                             <div class="contact-row-icon fa fa-phone"></div>
-                                            <div class="contact-row-text"><a style="color: #000" href="tel:9172280118111"
-                                                                             onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '9172280118111' });">+91
-                                                    72280118111/12/13/14/15</a></div>
+                                            <div class="contact-row-text"><a style="color: #000" href="tel:917228011811"
+                                                                             onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '917228011811' });">+91
+                                                    7228011811/12/13/14/15</a></div>
                                         </div>
                                         <div class="clearfix"></div>
 
