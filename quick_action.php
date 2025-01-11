@@ -148,7 +148,7 @@ if (isset($fname) && trim($fname) !== '' && isset($email) && trim($email) !== ''
                         'html' => $message_body
                     ],[
                         'from' => 'support@apollo.co.in',
-                        'to' => 'dcbrainsinquiry@gmail.com',
+                        'to' => 'sales_cns@gapollo.net',
                         'subject' => 'New Enquiry From Gujarat Apollo Corporate Website',
                         'html' => $message_body
                     ]]);
