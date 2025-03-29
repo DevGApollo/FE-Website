@@ -342,7 +342,7 @@ error_reporting(E_ALL);
                 <li><a href="index.php#application" id="app">Applications</a></li>
                 <li><a href="news-events.php">News & Events</a></li>
                 <li><a href="download.php">Download</a></li>
-                <li><a href="https://www.appsheet.com/start/9b055f64-e0cb-48e7-80a8-d8b1b0641357">Employee Login </a></li>
+                <li><a href="https://www.appsheet.com/start/9b055f64-e0cb-48e7-80a8-d8b1b0641357">Employee Login | </a></li>
                 <li><a href="contact-us.php">Contact us</a></li>
             </ul>
         </nav>
@@ -358,7 +358,7 @@ error_reporting(E_ALL);
                                     <a href="news-events.php" title="News & Events" class="internal-link">News & Events | </a>
                                     <a href="download.php" title="Media library" class="internal-link">Download | </a>
                                     <a href="https://www.appsheet.com/start/9b055f64-e0cb-48e7-80a8-d8b1b0641357" title="Inquiry now"
-                                                             class="internal-link">Employee Login </a>
+                                                             class="internal-link">Employee Login | </a>
                                     <a class="internal-link" href="https://sites.google.com/gapollo.net/apollohr/home"  title="Careers">Careers</a>
                                 </p>
                             </div>
