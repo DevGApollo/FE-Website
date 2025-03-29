@@ -35,6 +35,8 @@
                 </ul>
             </div>
             <div class="col-md-3 col-sm-12">
+                <h3><a href="https://sites.google.com/gapollo.net/apollohr/home" style="color: white;font-weight: 500;">Careers</a></h3>
+                <hr class="style4">
                 <h3>Contact us</h3>
                 <hr class="style4">
                 <div class="address">Parishram,<br>
