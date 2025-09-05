@@ -14,6 +14,8 @@
                                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.762080260871!2d72.56289485443328!3d23.032506350674844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3dbcae2b65fe0c89!2sGujarat+Apollo+Equipment+Limited!5e0!3m2!1sen!2sin!4v1541143973753"
                                         width="100%" height="500" frameborder="1" style="border:1px solid #ccc;"
                                         allowfullscreen></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3670.522738022599!2d72.50085987531548!3d23.07795257913509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjPCsDA0JzQwLjYiTiA3MsKwMzAnMTIuNCJF!5e0!3m2!1sen!2sin!4v1757098696596!5m2!1sen!2sin"  width="100%" height="500" frameborder="1" style="border:1px solid #ccc;"
+                                        allowfullscreen></iframe>
                             </div>
 
                         </div>
@@ -27,7 +29,7 @@
                                         <div class="contact-row">
                                             <div class="contact-row-icon fa fa-map-marker"></div>
                                             <div class="contact-row-text">1403-1405 The Capital 2,<br>
-                                                Near science city,<br> Science City Road,Ahmedabad-380060,<br>
+                                                Near science city,<br> Science City Road, Ahmedabad-380060,<br>
                                                 Gujarat, India.
                                             </div>
                                             <div class="clearfix"></div>

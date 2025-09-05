@@ -40,7 +40,7 @@
                 <h3>Contact us</h3>
                 <hr class="style4">
                 <div class="address">1403-1405 The Capital 2,<br>
-                    Near science city,<br> Science City Road,Ahmedabad-380060,<br>
+                    Near science city,<br> Science City Road, Ahmedabad-380060,<br>
                     Gujarat, India.
                 </div>
                 <div class="info phone-1"><img loading="lazy" src="images/phone.png" alt=""> <a href="tel:917228011811"
