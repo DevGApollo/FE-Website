@@ -26,8 +26,8 @@
                                     <div class="contact-box-content-2">
                                         <div class="contact-row">
                                             <div class="contact-row-icon fa fa-map-marker"></div>
-                                            <div class="contact-row-text">Parishram,
-                                                5-B Rashmi Society, Mithakhali,<br> Navrangpura,Ahmedabad-380009,<br>
+                                            <div class="contact-row-text">1403-1405 The Capital 2,<br>
+                                                Near science city,<br> Science City Road,Ahmedabad-380060,<br>
                                                 Gujarat, India.
                                             </div>
                                             <div class="clearfix"></div>
