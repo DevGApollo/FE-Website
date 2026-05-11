@@ -24,7 +24,7 @@ error_reporting(E_ALL);
         15 mm (m³/h) , 40 mm (m³/h) , 60 mm (m³/h) ,  80 mm (m³/h) ,  100 mm (m³/h) , 120 mm (m³/h) ,
         Deck Size ,  No. of Deck , Screen Speed "/>
 
-
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link href="~/css/animate.min.css" rel="stylesheet prefetch"/>
     <link href="fileadmin/templates/_scripts/bootstrap/css/bootstrap.css" rel="stylesheet prefetch">
     <link rel="stylesheet prefetch" type="text/css" href="fileadmin/templates/_scripts/ter-style.css">
