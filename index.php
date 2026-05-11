@@ -6,6 +6,7 @@
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
+            <div class="item active">
             <div id="c9280"> <div class="ce-textpic ce-right ce-intext">
                          <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
                              <div class="ce-row">
