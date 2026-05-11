@@ -23,7 +23,7 @@
                     </div>
                  </div>
             </div>
-            <div class="item active">
+            <div class="item">
                 <div id="c9277">
                     <div class="ce-textpic ce-right ce-intext">
                         <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
