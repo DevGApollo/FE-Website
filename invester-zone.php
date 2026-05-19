@@ -4329,7 +4329,7 @@ button.btn.btn-primary.center-block.buttonwidth:hover {
 
 <script>
     // 1. Browser ka tab title badalna
-    document.title = "Investor Zone-Gujarat Apollo Industries Ltd -";
+    document.title = "Investor Zone-Gujarat Apollo Industries Ltd";
 
     // 2. Meta Description ko overwrite karna (Sheet ke compliance sector ke hisab se)
     let metaDesc = document.querySelector('meta[name="description"]');
