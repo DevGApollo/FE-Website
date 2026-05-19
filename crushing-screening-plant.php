@@ -33,3 +33,21 @@
 
 
 <?php include "footer.php"; ?>
+<script>
+    document.title = "Vibrating Screening Machines & Tracked Mobile Screens India";
+
+    let metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc) {
+        metaDesc.setAttribute("content", "Industrial vibrating screens and crawler-mounted mobile screening plants. Efficient separation, sizing, and multi-deck screening for aggregates & minerals.");
+    }
+
+    let metaKeywords = document.querySelector('meta[name="keywords"]');
+    if (metaKeywords) {
+        metaKeywords.setAttribute("content", "vibrating screening machine, tracked mobile screen plant, multi deck industrial sifter, quarry aggregate screening screen");
+    }
+
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) {
+        canonical.setAttribute("href", "https://apollo.co.in/crushing-screening-plant.php");
+    }
+</script>
