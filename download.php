@@ -167,3 +167,18 @@
 
 
 <?php include("footer.php"); ?>
+
+
+<script>
+    document.title = "Download Product Catalogues & Equipment Datasheets";
+
+    let metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc) {
+        metaDesc.setAttribute("content", "Access technical equipment brochures, operational metrics, and complete machinery catalogs for Apollo crushing complexes and batching plants.");
+    }
+
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) {
+        canonical.setAttribute("href", "https://apollo.co.in/download.php");
+    }
+</script>
