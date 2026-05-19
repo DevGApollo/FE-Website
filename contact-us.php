@@ -296,3 +296,23 @@
 
 
 <?php include "footer.php"; ?>
+
+
+<script>
+    document.title = "Contact Gujarat Apollo Industries";
+
+    let metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc) {
+        metaDesc.setAttribute("content", "Get in touch with Gujarat Apollo's sales and corporate desks. Find map addresses for our primary engineering plant in Mehsana and Ahmedabad offices.");
+    }
+
+    let metaKeywords = document.querySelector('meta[name="keywords"]');
+    if (metaKeywords) {
+        metaKeywords.setAttribute("content", "gujarat apollo head office, apollo machinery contact number, mehsana engineering works address");
+    }
+
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) {
+        canonical.setAttribute("href", "https://apollo.co.in/contact-us.php");
+    }
+</script>
