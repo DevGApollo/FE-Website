@@ -4326,3 +4326,26 @@ button.btn.btn-primary.center-block.buttonwidth:hover {
 </div> -->
 <!-- </section> -->
 <?php include("footer.php"); ?>
+
+<script>
+    // 1. Browser ka tab title badalna
+    document.title = "Investor Zone-Gujarat Apollo Industries Ltd -";
+
+    // 2. Meta Description ko overwrite karna (Sheet ke compliance sector ke hisab se)
+    let metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc) {
+        metaDesc.setAttribute("content", "Access financial reports, annual returns, shareholding patterns, and corporate announcements for Gujarat Apollo Industries Limited.");
+    }
+
+    // 3. Classification / Heavy Industry tag set karna (Row 100 ke mutabik)
+    let metaClass = document.querySelector('meta[name="classification"]');
+    if (metaClass) {
+        metaClass.setAttribute("content", "Heavy Construction & Mining Machinery Production");
+    }
+
+    // 4. Canonical URL (Aapki original file routing ke hisab se)
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) {
+        canonical.setAttribute("href", "https://apollo.co.in/invester-zone.php");
+    }
+</script>
