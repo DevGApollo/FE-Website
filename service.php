@@ -103,7 +103,7 @@
         metaDesc.setAttribute("content", "Maximize plant uptime. Factory-backed replacement parts, field engineering crews, and commissioning support for Apollo heavy road machinery.");
     }
 
-    // 3. Canonical URL (Aapki actual file 'service.php' ke hisab se set kar diya hai)
+    
     let canonical = document.querySelector('link[rel="canonical"]');
     if (canonical) {
         canonical.setAttribute("href", "https://apollo.co.in/service.php");
