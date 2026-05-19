@@ -96,3 +96,24 @@
 <div class="clearfix"></div>
 
 <?php include("footer.php"); ?>
+
+
+
+<script>
+    document.title = "HP Cone Crusher Manufacturer";
+
+    let metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc) {
+        metaDesc.setAttribute("content", "High performance cone crushers (HP & GP series) for secondary and tertiary stone crushing. Achieve precise cubical aggregate shape for high-spec road works.");
+    }
+
+    let metaKeywords = document.querySelector('meta[name="keywords"]');
+    if (metaKeywords) {
+        metaKeywords.setAttribute("content", "cone crusher manufacturer, gp cone crushers, hydro cone crusher price, secondary rock crushing machine, aggregate cone crusher");
+    }
+
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) {
+        canonical.setAttribute("href", "https://apollo.co.in/cone-crusher.php");
+    }
+</script>
