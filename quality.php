@@ -78,3 +78,26 @@
 
 
 <?php include("footer.php"); ?>
+
+<script>
+    // 1. Browser ka tab title badalna
+    document.title = "Quality Policy, Standard Inspection & Infrastructure Certifications";
+
+    // 2. Meta Description ko overwrite karna
+    let metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc) {
+        metaDesc.setAttribute("content", "Discover Gujarat Apollo's rigorous quality control metrics. Rigorous material testing, shop-floor inspections, and international benchmark engineering.");
+    }
+
+    // 3. Meta Keywords ko overwrite karna
+    let metaKeywords = document.querySelector('meta[name="keywords"]');
+    if (metaKeywords) {
+        metaKeywords.setAttribute("content", "iso certified engineering company, apollo heavy machinery quality standards, industrial quality control process");
+    }
+
+    // 4. Canonical URL ko exact update karna
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) {
+        canonical.setAttribute("href", "https://apollo.co.in/quality.php");
+    }
+</script>
