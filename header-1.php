@@ -9,20 +9,19 @@ error_reporting(E_ALL);
 <head>
     <meta charset="utf-8">
     <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
-    <title>Manufacturer of Crushing and Screening Plants</title>
-    <meta name="robots" content="index, follow"/>
-    <meta name="revisit-after" content="7 days"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"/>
-    <meta name="keywords" content="single toggle jaw crusher ,  vibrating screen , jaw  crusher , cone crusher ,
-        horizontal shaft impact crusher , vertical shaft impact crusher , mobile bridge inspection unit ,  bucket crusher
-        primary impact crusher , Send Making Plants , Gujarat Apollo Share Price , secondary impact crusher ,
-        crawler mounted crushing plant with jaw crusher , vibrating screen ,  crawler mounted crushing plant with jaw crusher
-        wheel mounted jaw & cone plant , crawler mounted crushing plant with impact crusher, mobile bridge inspection unit,
-        Model , Capacity , Max. Feed Size , Closed Side Setting  ,  Crusher Speed  ,  Power Rating ,  Weight
-        Maximum Revolution ,  Setting Range , Feed Opening , Rotor Parameter ,  Rotor Speed ,
-        15 mm (m³/h) , 40 mm (m³/h) , 60 mm (m³/h) ,  80 mm (m³/h) ,  100 mm (m³/h) , 120 mm (m³/h) ,
-        Deck Size ,  No. of Deck , Screen Speed "/>
+   <title>Gujarat Apollo Industries</title>
+    <meta name="description" content="Gujarat Apollo Industries is India's pioneer in heavy road infrastructure and mining machinery. Manufacturing premium asphalt batch mix plants, jaw crushers, and screening systems.">
+    <meta name="keywords" content="asphalt plant manufacturer, aggregate crushing plant, jaw crusher India, cone crusher Gujarat, asphalt batch mix plant, road construction machinery">
+
+    <meta property="og:title" content="Gujarat Apollo Industries">
+    <meta property="og:description" content="Explore world-class, high-durability asphalt mixing plants and aggregate processing equipment engineered for global projects.">
+    <meta property="og:image" content="https://apollo.co.in/images/og-corporate-banner.jpg">
+
+    <meta name="twitter:card" content="summary_large_image">
+
+    <meta name="geo.region" content="IN-GJ">
+    <meta name="geo.platename" content="Mehsana">
+    <meta name="geo.position" content="23.5358;72.3833">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link href="~/css/animate.min.css" rel="stylesheet prefetch"/>
