@@ -77,3 +77,22 @@
 <div class="clearfix"></div>
 
 <?php include("footer.php"); ?>
+
+<script>
+    document.title = "Vertical Shaft Impact (VSI) Crusher";
+
+    let metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc) {
+        metaDesc.setAttribute("content", "Gujarat Apollo VSI crushers offer optimal rock-on-rock shaping technology. Ideal for cubical aggregate manufacturing and high-grade plaster sand production.");
+    }
+
+    let metaKeywords = document.querySelector('meta[name="keywords"]');
+    if (metaKeywords) {
+        metaKeywords.setAttribute("content", "vsi crusher manufacturer, vertical shaft impact crusher, M sand making machine, artificial sand crusher, cubical aggregate shaping");
+    }
+
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) {
+        canonical.setAttribute("href", "https://apollo.co.in/vertical-shaft-impact-crusher.php");
+    }
+</script>
