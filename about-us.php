@@ -351,3 +351,19 @@
 
 
 <?php include("footer.php"); ?>
+
+
+
+<script>
+    document.title = "About Gujarat Apollo Industries";
+
+    let metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc) {
+        metaDesc.setAttribute("content", "Established in 1986 in Ahmedabad, Gujarat Apollo Industries has grown to be a trusted public-listed industrial powerhouse for mining and road machinery.");
+    }
+
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) {
+        canonical.setAttribute("href", "https://apollo.co.in/about-us.php");
+    }
+</script>
