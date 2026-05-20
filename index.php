@@ -33,7 +33,7 @@
                                     <div class="ce-media">
                                         <a href="#">
                                             <img loading="lazy" title="apollo | MD" alt="apollo | MD"
-                                                 src="fileadmin/templates/_media/banner-slider/new-banner-slider/MD_APOLLO.png"
+                                                 src="fileadmin/templates/_media/banner-slider/new-banner-slider/MD_APOLLO.jpg"
                                                  width="1902" height="896"/>
                                         </a>
                                     </div>
