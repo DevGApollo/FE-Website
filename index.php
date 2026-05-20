@@ -24,6 +24,28 @@
                     </div>
                  </div>
             </div>
+             <div class="item">
+                <div id="c9277">
+                    <div class="ce-textpic ce-right ce-intext">
+                        <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+                            <div class="ce-row">
+                                <div class="ce-column">
+                                    <div class="ce-media">
+                                        <a href="#">
+                                            <img loading="lazy" title="apollo | MD" alt="apollo | MD"
+                                                 src="fileadmin/templates/_media/banner-slider/new-banner-slider/MD_APOLLO.png"
+                                                 width="1902" height="896"/>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ce-bodytext">
+                        </div>
+                    </div>
+                </div>
+                <div class="ueberschrift"></div>
+            </div>
             <div class="item">
                 <div id="c9277">
                     <div class="ce-textpic ce-right ce-intext">
