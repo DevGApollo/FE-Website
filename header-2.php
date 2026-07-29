@@ -333,7 +333,7 @@
                         </li>
                     </ul>
                 </li>
-                <li><a href="invester-zone.php">Investor Zone</a></li>
+              <a href="https://enchanting-pothos-22be48.netlify.app">Investor Zone</a>
                 <li><a href="quality.php">Quality</a></li>
                 <li><a href="service.php">Services</a></li>
                 <li><a href="index.php#application" id="app">Applications</a></li>
