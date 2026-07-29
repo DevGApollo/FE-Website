@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1"/>
-
 <head>
-    <meta charset="utf-8">
-    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
-    <title>Manufacturer of Crushing and Screening Plants</title>
-    <meta name="robots" content="index, follow"/>
+<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+<title>Manufacturer of Crushing and Screening Plants</title>
+<meta name="robots" content="index, follow" />
+
     <meta name="revisit-after" content="7 days"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"/>
     <meta name="keywords" content="single toggle jaw crusher ,  vibrating screen , jaw  crusher , cone crusher , 
          horizontal shaft impact crusher , vertical shaft impact crusher , mobile bridge inspection unit ,  bucket crusher
